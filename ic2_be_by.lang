@@ -1,0 +1,1653 @@
+//Base Classes
+tile.blockCrop.name=Сяўба
+tile.blockMachineLV.name=LV Машыны
+tile.blockMachineLV2.name=LV Машыны
+tile.blockMachineMV.name=MV Машыны
+tile.blockMachineHV.name=HV Машыны
+tile.blockCompactedGenerator.name=Кампактны генератар
+tile.blockChambers.name=Камерныя блокі
+tile.blockExplosive.name=Узрыўчатка
+tile.blockNoUse.name=Не узаемадзейнічаць
+tile.blockUtility.name=Дапаможны блок
+tile.blockMetal.name=Металічны блок
+tile.blockPersonal.name=Асабісты блок
+tile.blockCable.name=Провад
+tile.chargePad.name=Зарадная пліта
+tile.blockElectric.name=Электрычны блок
+tile.blockLuminator.name=Электралямпа
+tile.blockLuminatorMultiPart.name=Электралямпа (Multi Part)
+tile.advComparator.name=Палепшаны параўнальнік
+
+//Rubber
+tile.leaves.name=Лісцё
+tile.blockRubWood.name=Драўніна гевеі
+tile.blockRubSapling.name=Саженец гевеі
+tile.blockHarz.name=Палімерны ліст
+tile.blockRubber.name=Гумавы ліст
+
+//Misc
+tile.blockFenceIron.name=Железны забор
+tile.blockFoam.name=Будаўнічая пена
+tile.blockWall.name=Цвёрдая будаўнічая пена
+tile.blockPixelFoam.name=Піксельная пена
+tile.blockWool.name=Ваўняная будаўнічая пена
+tile.blockWallTextured.name=Тэкстураваная сцяна
+tile.blockBarrel.name=Бочка
+tile.blockScaffold.name=Будаўнічыя лясы
+tile.blockIronScaffold.name=Железныя будаўнічыя лясы
+tile.blockDoorAlloy.name=Умацаванныя дзверы
+
+//Metals
+tile.blockOreCopper.name=Медная руда
+tile.blockOreTin.name=Алавяны руда
+tile.blockOreUran.name=Уранавая руда
+tile.blockOreSilver.name=Сярэбраная руда
+tile.blockMetalCopper.name=Медны блок
+tile.blockMetalTin.name=Алавяны блок
+tile.blockMetalBronze.name=Бронзавы блок
+tile.blockMetalUranium.name=Урановый блок
+tile.blockMetalSilver.name=Сярэбраны блок
+tile.blockCharcoal.name=Блок драўнянага вугалю
+
+//Explosive
+tile.blockITNT.name=Прамысловы TNT
+tile.blockNuke.name=Ядзерная бомба
+
+//Utility Block
+tile.blockMiningPipe.name=Свідравальная труба
+tile.blockMiningTip.name=Свідравальная труба
+tile.blockAlloy.name=Умацаваны камень
+tile.blockAlloyGlass.name=Умацаванае шкло
+tile.blockAlloyBrick.name=Умацаваная цагліна
+tile.blockAlloyClearGlass.name=Умацаванае празрыстае шкло
+tile.blockAlloyCracked.name=Патрэсканы умацаваны камень
+
+//Generator Block
+tile.blockGenerator.name=Генератар
+tile.blockGeoGenerator.name=Геатэрмальны генератар
+tile.blockWaterGenerator.name=Вадзяны млын
+tile.blockSolarGenerator.name=Сонечная панэль
+tile.blockWindGenerator.name=Вятряк
+tile.blockNuclearReactor.name=Ядзерны рэактар
+tile.blockSteamReactor.name=Паравы рэактар
+tile.basicTurbine.name=Паравая турбіна
+tile.blockThermalGenerator.name=Тэрмальны генератар
+tile.blockSolarTurbine.name=Сонечная турбіна
+tile.blockLiquidFuelGenerator.name=Вадкапаліўны генератар
+tile.blockSlagGenerator.name=Генератар c назапашаннем адпрацавання
+tile.waveGenerator.name=Хвалёвы генератар
+tile.oceanGenerator.name=Акіянскі генератар
+tile.blockBoiler.name=Паліўны кацёл
+
+//Compacted Generator
+tile.blockSolarLV.name=Сонечная панэль нізкага напружання (LV)
+tile.blockSolarMV.name=Сонечная панэль сярэдняга напружання (MV)
+tile.blockSolarHV.name=Сонечная панэль высокага напружання (HV)
+tile.blockWaterMillLV.name=Водны млын нізкага напружання (LV)
+tile.blockWaterMillMV.name=Водны млын сярэдняга напружання (MV)
+tile.blockWaterMillHV.name=Водны млын высокага напружання (HV)
+tile.LVRFProducer.name=Низкавольтавы Flux-генератар (LV)
+tile.MVRFProducer.name=Сярэдні электрычны Flux-генератар (MV)
+tile.HVRFProducer.name=Высакавольтавы Flux-генератар (HV)
+
+
+//Reactor Chambers
+tile.blockReactorChamber.name=Камера реактора
+tile.blockSteamChamber.name=Паровая камера реактора
+
+//Electric Block
+tile.blockBatBox.name=Энергохранитель
+tile.blockMFE.name=МФЭ
+tile.blockMFSU.name=МФСУ
+tile.blockBatteryBox.name=Блок батарей
+tile.blockCreativeStorage.name=Творческий энергохранитель
+tile.blockPesu.name=ПЭСУ
+tile.blockTransformerLV.name=LV Трансформатор
+tile.blockTransformerMV.name=MV Трансформатор
+tile.blockTransformerHV.name=HV Трансформатор
+tile.blockTransformerEV.name=EV Трансформатор
+tile.blockTransformerIV.name=IV Трансформатор
+tile.blockAdjustableTranformer.name=Регулируемый трансформатор
+
+//LV Machines
+tile.blockMachine.name=Корпус механизма
+tile.blockIronFurnace.name=Железная печь
+tile.blockElecFurnace.name=Электропечь
+tile.blockMacerator.name=Дробитель
+tile.blockExtractor.name=Экстрактор
+tile.blockCompressor.name=Компрессор
+tile.blockCanner.name=Консервная машина
+tile.blockMiner.name=Шахтер
+tile.blockPump.name=Помпа
+tile.blockMagnetizer.name=Намагничиватель
+tile.blockElectrolyzer.name=Электролизер
+tile.blockRecycler.name=Утилизатор
+tile.blockCropmatron.name=Автосадовник
+tile.blockSoundBeacon.name=Звуковой маяк
+tile.blockCropScanner.name=Сканер агрокультур
+tile.blockStoneMacerator.name=Каменный дробитель
+tile.blockWoodGasser.name=Древесный газификатор
+tile.blockElectricWoodGasser.name=Элекстрический древесный газификатор
+tile.blockRareEarthExtractor.name=Экстрактор редкоземельных элементов
+tile.blockCropLibrary.name=Сканер семян
+tile.blockMachineBuffer.name=Буфер
+tile.blockMachineTank.name=Резервуар
+tile.blockIndustrialWorktable.name=Промышленный рабочий стол
+tile.blockSawMill.name=Лесопилка
+
+//MV Machines
+tile.blockAdvMachine.name=Палепшаны корпус механизма
+tile.blockInduction.name=Индукционная печь
+tile.blockRotary.name=Роторный дробитель
+tile.blockCentrifug.name=Центробежный экстрактор
+tile.blockSingularity.name=Сингулярный компрессор
+tile.blockVacuum.name=Вакуумная консервная машина
+tile.blockCompacting.name=Кампактны утилизатор
+tile.blockCharged.name=Заряженный электролизер
+tile.blockOreScanner.name=Сканер руд
+tile.blockTesla.name=Катушка Теслы
+tile.blockReactorPlanner.name=Планировщик реактора
+tile.blockCropHarvester.name=Сборщик урожая
+tile.blockAdvPump.name=Разогнанная помпа
+tile.blockRangedPump.name=Распределительная помпа
+
+//HV Machines
+tile.blockTerra.name=Терраформер
+tile.blockMatter.name=Генератар материи
+tile.blockTeleporter.name=Телепорт
+tile.blockUraniumEnricher.name=Обогатитель урана
+tile.blockElectricEnchanter.name=Электрозачарователь
+tile.blockPlasmafier.name=Плазмофикатор
+tile.blockTeleporterHub.name=Телепортационный центр
+
+//Charge Pad
+tile.chargePadLV.name=Статичная заряжающая плита
+tile.chargePadMV.name=Кристаллизующая заряжающая плита
+tile.chargePadHV.name=Лазуротроновая заряжающая плита
+tile.chargePadNuclear.name=Расщепляющая заряжающая плита
+
+//Personal Blocks
+tile.blockPersonalTrader.name=Торговый аппарат
+tile.blockPersonalTraderFluid.name=Жидкостный торговый аппарат
+tile.blockPersonalTraderEnergy.name=Энергетический торговый аппарат
+tile.blockPersonalChest.name=Личный сейф
+tile.blockPersonalTank.name=Личный резервуар
+tile.blockPersonalEnergyStorageunknown.name=Личное энергохранилище
+tile.blockPersonalEnergyStorageBatbox.name=Личный энергохранитель
+tile.blockPersonalEnergyStorageMFE.name=Личный МФЭ
+tile.blockPersonalEnergyStorageMFSU.name=Личный МФСУ
+tile.blockPersonalLocalMarket.name=Местный рынок
+tile.blockPersonalGlobalMarket.name=Глобальный рынок
+tile.blockIridiumStone.name=Иридиевый камень
+
+//item
+//Cables
+item.itemCable.name=Неізаляваны медны провад
+item.itemCableI.name=Медны провад
+item.itemGoldCable.name=Залаты провад
+item.itemGoldCableI.name=Неізаляваны залаты провад
+item.itemGoldCableII.name=Залаты провад з дубальтовай ізаляцыяй
+item.itemIronCable.name=Высакавольтавы провад
+item.itemIronCableI.name=Iзаляваны высакавольтавы провад
+item.itemIronCableII.name=Высакавольтавы провад з дубальтовай ізаляцыяй
+item.itemIronCableIII.name=Высакавольтавы провад з чацвярны ізаляцыяй
+item.itemTinCable.name=Алавяны провад (Да звышнізкага току)
+item.itemGlassCable.name=Шкловалаконны провад
+item.itemDetectorCable.name=Провад-дэтэктар
+item.itemSplitterCable.name=Провад-раз'яднальнік
+item.itemBronzeCable.name=Бронзавы провад
+item.itemBronzeCableI.name=Iзаляваны бронзовы провад
+item.itemBronzeCableII.name=Бронзавы провад з дубальтовай ізаляцыяй
+item.itemPlasmaCable.name=Плазменны провад
+
+//Batteries
+item.itemBatSU.name=Батарейка
+item.itemBatRE.name=Аккумулятор
+item.itemBatCrystal.name=Энергетический кристалл
+item.itemBatLamaCrystal.name=Лазуротроновый кристалл
+item.itemPESD.name=УХПЭ
+item.quantumAccumulator.name=Квантовый аккумулятор
+item.bigQuantumAccumulator.name=Большой квантовый аккумулятор
+
+//Crops
+item.itemCropanalyzer.name=Агроанализатор
+item.itemCropSeed.name=Мешки для семян
+item.cropSeedUn.name=Неизвестные семена
+item.cropSeedInvalid.name=Семенам не хватает данных - ошибка?
+item.cropItem.name=[Семена] %s
+item.itemCrop.name=Жёрдочки
+item.itemWeedEx.name=Средство от сорняков
+item.itemCellHydrant.name=Увлажняющая капсула
+item.itemTerraWart.name=Земляной нарост
+
+//Coffee
+item.coffee.name=Кофе
+item.coffeeCold.name=Холодный кофе
+item.coffeeDark.name=Темный кофе
+
+//Tea
+item.ItemTeas.name=Чай (Передмет)
+item.itemColdTea.name=Холодный чай
+item.itemBlackTea.name=Черный чай
+item.itemTea.name=Чай
+item.itemIceTea.name=Чай со льдом
+
+//Misc
+item.itemDynamites.name=Динамит (Предмет)
+item.itemDynamite.name=Динамит
+item.itemDynamiteSticky.name=Липкий динамит
+item.itemToolbox.name=Ящик для инструментов
+item.itemFilledToolbox.name=Ящик з инструментами
+item.itemCarbonBox.name=Углепластиковый ящик для инструментов
+item.itemCarbonBoxFilled.name=Углепластиковый ящик з инструментами
+item.itemIridiumBox.name=Квантовый ящик для инструментов
+item.itemIridiumBoxFilled.name=Квантовый ящик з инструментами
+item.itemNoUse.name=Не взаимодействовать
+item.itemMisc.name=Misc Item
+item.itemHarz.name=Каучук
+
+//Coins
+item.itemCoins.name=Монета (Предмет)
+item.itemIndustrialCoin.name=Индустриальная монета
+item.itemIndustrialCoinX1.name=Индустриальная монета
+item.itemIndustrialCoinX2.name=Индустриальная монета
+item.itemIndustrialCoinX3.name=Индустриальная монета
+item.itemIndustrialCoinX4.name=Индустриальная монета
+item.itemIndustrialCoinX5.name=Индустриальная монета
+
+//FuelCans
+item.itemFuelCans.name=Канистра (Предмет)
+item.itemFuelCanEmpty.name=(Пустая) Канистра
+item.itemFuelCan.name=Канистра
+item.itemTinCanFilled.name=(Заполненная) Канистра
+
+//Misc Items
+item.itemScrapbox.name=Коробка утильсырья
+item.itemDoorAlloy.name=Умацаванныя дзверы
+
+//Cells
+item.itemCellEmpty.name=Капсула
+item.itemCellWater.name=Капсула з водой
+item.itemCellLava.name=Капсула з лавой
+
+//Boats
+item.itemIC2Boats.name=Лодка (Предмет)
+item.itemRubberBoat.name=Резиновая шлюпка
+item.itemRubberBoatBroken.name=Поврежденная резиновая шлюпка
+item.itemCarbonBoat.name=Углепластиковое каноэ
+item.itemElectricBoat.name=Электролодка
+
+//Beer Stuff
+item.itemBarrel.name=Бочонок
+item.barrelEmpty.name=Пустая бочка из под выпивки
+item.barrelFilled.name=%sL Бочка выпивки
+item.beer.name=Пиво (Приедмет)
+item.beerBuilder.name=%1$s%2$s %3$s
+item.beerBlack.name=Черная жижа
+item.beerRum.name=Ром
+item.beerZero.name=Zero
+item.beerSolidRatioWatery.name=Watery 
+item.beerSolidRatioClear.name=Clear 
+item.beerSolidRatioLite.name=Lite 
+item.beerSolidRatioStrong.name=Strong 
+item.beerSolidRatioThick.name=Thick 
+item.beerSolidRatioStodge.name=Stodge 
+item.beerHopsRatioSoup.name=Soup 
+item.beerHopsRatioAlcfree.name=Alcfree 
+item.beerHopsRatioWhite.name=White 
+item.beerHopsRatioDark.name=Dark 
+item.beerHopsRatioFull.name=Full 
+item.beerHopsRatioBlack.name=Black 
+item.beerTimeRatioBrew.name=Brew 
+item.beerTimeRatioYoungster.name=Youngster 
+item.beerTimeRatioBeer.name=Beer 
+item.beerTimeRatioAle.name=Ale 
+item.beerTimeRatioDragonblood.name=Dragonblood 
+
+//Tools
+item.itemDebug.name=Устройство отладки
+item.itemRemote.name=Радиопульт подрыва
+item.itemFreq.name=Определитель частоты
+item.itemMachineTool.name=Механический инструмент
+item.itemToolCutter.name=Кусачки
+item.itemFoamSprayer.name=Распылитель строительной пены
+item.itemThermometer.name=Термометр
+item.itemTreetap.name=Краник
+item.itemToolWrench.name=Электроключ
+item.itemMemoryStick.name=Карта памяти
+item.itemToolBronzeHoe.name=Бронзовая мотыга
+item.itemToolBronzeSpade.name=Бронзовая лопата
+item.itemToolBronzeSword.name=Бронзавы меч
+item.itemToolBronzeAxe.name=Бронзавы топор
+item.itemToolBronzePickaxe.name=Бронзовая кирка
+
+//Painter
+item.itemPainters.name=Валик (Предмет)
+item.itemToolPainterBlack.name=Валик з черной краской
+item.itemToolPainterRed.name=Валик з красной краской
+item.itemToolPainterGreen.name=Валик з зеленой краской
+item.itemToolPainterBrown.name=Валик з коричневой краской
+item.itemToolPainterBlue.name=Валик з синей краской
+item.itemToolPainterPurple.name=Валик з пурпурной краской
+item.itemToolPainterCyan.name=Валик з бирюзовой краской
+item.itemToolPainterLightGrey.name=Валик з светло-серой краской
+item.itemToolPainterDarkGrey.name=Валик з темно-серой краской
+item.itemToolPainterPink.name=Валик з розовой краской
+item.itemToolPainterLime.name=Валик з лаймовой краской
+item.itemToolPainterYellow.name=Валик з желтой краской
+item.itemToolPainterCloud.name=Валик з светло-синей краской
+item.itemToolPainterMagenta.name=Валик з пурпурной краской
+item.itemToolPainterOrange.name=Валик з оранжевой краской
+item.itemToolPainterWhite.name=Валик з белой краской
+
+//Electric Tools
+item.itemToolMiningLaser.name=Шахтерский лазер
+item.itemToolMeter.name=Ваттметр
+item.electricSprayer.name=Элекстро-распылитель строительной пены
+item.itemObscurator.name=Маскировщик
+item.itemToolChainsaw.name=Цепная пила
+item.itemDrills.name=Бур (Предмет)
+item.itemToolDrill.name=Шахтерский бур
+item.itemToolDDrill.name=Алмазный бур
+item.itemToolJackHammer.name=Пневматический бур
+item.itemToolHoe.name=Электромотыга
+item.itemTreetapElectric.name=Электрокраник
+item.itemNanoSabers.name=Наносабля (Предмет)
+item.itemNanoSaber.name=Наносабля
+item.itemNanoSaberActive.name=Наносабля (Активирована)
+item.itemToolWrenchElectric.name=Электроключ
+item.precisionWrench.name=Аккуратный электроключ
+item.itemMowingTool.name=Электрокоса
+item.itemPortableTeleporter.name=Портативный телепортатор
+
+//Scanner Item
+item.itemMetaScanners.name=Сканер (Предмет)
+item.itemScanner.name=Сканер КР
+item.itemScannerAdv.name=Сканер ЦР
+item.rangedScanner.OD.name=Палепшаны КР сканер
+item.rangedScanner.OV.name=Палепшаны ЦР сканер
+item.bigRangedScanner.OD.name=КР сканер (Большой радиус действия)
+item.bigRangedScanner.OV.name=ЦР сканер (Большой радиус действия)
+item.itemLowOreValueScanner.name=Слабый КлР сканер
+item.itemMedOreValueScanner.name=Средний КлР сканер
+item.itemHighOreValueScanner.name=Максимальный КлР сканер
+item.itemSettedOreValueScanner.name=Регулируемый КлР сканер
+item.itemQuarryScanner.name=Карьерный сканер
+item.itemFilteredScanner.name=Сканер з фильтром
+item.itemFluidScanner.name=Сканер жидкостей
+item.itemFluidScannerFiltered.name=Сканер жидкостей з фильтром
+
+//Utility Armor
+item.itemArmorCFPack.name=Ранец з пеной
+item.itemArmorJetpack.name=Реактивный ранец
+item.itemStaticBoots.name=Электростатические ботинки
+item.itemNightvisionGoggles.name=Прибор ночного видения
+item.itemSolarHelmets.name=Солнечный шлем (Предмет)
+item.itemSolarHelmet.name=Солнечный шлем
+item.itemAdvancedSolarHelmet.name=Продвинутый солнечный шлем
+item.itemArmorBatpack.name=Аккумуляторный ранец
+item.itemArmorLappack.name=Лазуротроновый ранец
+item.itemArmorQuantumPack.name=Квантовый ранец
+item.itemArmorIndustrialBelt.name=Промышленный пояс
+item.itemArmorJetpackElectric.name=Электрычны реактивный ранец
+item.itemArmorJetpackNuclear.name=Ядерный реактивный ранец
+item.itemArmorCombinedJetpack.name=Уплотненный реактивный ранец
+item.itemArmorNuclearCombindedJetpack.name=Уплотненный ядерный реактивный ранец
+
+//Electric Armor
+item.itemArmorNanoHelmet.name=Нановолоконный шлем
+item.itemArmorNanoChestplate.name=Нановолоконный жилет
+item.itemArmorNanoLegs.name=Нановолоконные поножи
+item.itemArmorNanoBoots.name=Нановолоконные ботинки
+item.itemArmorQuantumHelmet.name=Квантовый шлем
+item.itemArmorQuantumChestplate.name=Квантовый жилет
+item.itemArmorQuantumLegs.name=Квантовые поножи
+item.itemArmorQuantumBoots.name=Квантовые ботинки
+item.itemQuantumArmorJetpack.name=Квантовый жилет (Встроенный реактивный ранец)
+item.itemQuantumArmorNuclearJetplate.name=Квантовый жилет (Встроенный ядерный реактивный ранец)
+
+//Normal Armor
+item.itemArmorBronzeHelmet.name=Бронзавы шлем
+item.itemArmorBronzeChestplate.name=Бронзовая криса
+item.itemArmorBronzeLegs.name=Бронзовые поножи
+item.itemArmorBronzeBoots.name=Бронзовые ботинки
+item.itemArmorAlloyHelmet.name=Композитный шлем
+item.itemArmorAlloyChestplate.name=Композитный жилет
+item.itemArmorAlloyLeggings.name=Композитные поножи
+item.itemArmorAlloyBoots.name=Композитные ботинки
+item.itemArmorHazmatHelmet.name=Шлем-акваланг
+item.itemArmorHazmatChestplate.name=Защитная куртка
+item.itemArmorHazmatLeggings.name=Защитные штаны
+item.itemArmorRubBoots.name=Резиновые ботинки
+
+//Shields
+item.platedShield.name=Композитный щит
+item.bronzeShield.name=Бронзавы щит
+item.nanoShield.name=Нановолоконный щит
+
+//Machine Upgrades
+item.itemUpgradeBase.name=База для улучшений
+item.ic2upgrades.name=Улучшение (Предмет)
+item.overclockerUpgrade.name=Улучшение «Ускоритель»
+item.transformerUpgrade.name=Улучшение «Трансформатор»
+item.energyStorageUpgrade.name=Улучшение «Энергохранитель»
+item.redstoneSensitivityUpgrade.name=Улучшение «Взаимодействие з красным сигналом»
+item.redstoneInverterUpgrade.name=Улучшение «Инвертивное взаимодействие з красным сигналом»
+item.basicItemImportUpgrade.name=Улучшение «Базовый импортер»
+item.itemImportUpgrade.name=Улучшение «Импорт»
+item.basicItemExportUpgrade.name=Улучшение «Базовый выталкиватель»
+item.itemExportUpgrade.name=Улучшение «Выталкиватель»
+item.mufflerUpgrade.name=Улучшение «Глушитель»
+item.muteUpgrade.name=Улучшение «Беззвучный»
+item.expCollectorUpgrade.name=Улучшение «Коллектор опыта»
+item.efficiencyUpgrade.name=Улучшение «КПД»
+item.energyMultiplierUpgrade.name=Улучшение «Множитель энергоемкости»
+item.loudnessUpgrade.name=Улучшение «Громкость»
+item.roundRobinExportUpgrade.name=Улучшение «Сторона экспорта»
+item.slowdownUpgrade.name=Улучшение «Замедлитель»
+item.basicFilteredImportUpgrade.name=Улучшение «Базовый фильтр импорта»
+item.filteredImportUpgrade.name=Улучшение «Фильтр импорта»
+item.basicFilteredExportUpgrade.name=Улучшение «Базовый фильтр экспорта»
+item.filteredExportUpgrade.name=Улучшение «Фильтр экспорта»
+item.basicFluidImportUpgrade.name=Улучшение «Базовый импортёр жидкости»
+item.fluidImportUpgrade.name=Улучшение «Импорт жидкости»
+item.basicFluidExportUpgrade.name=Улучшение «Базовый экспортёр жидкости»
+item.fluidExportUpgrade.name=Улучшение «Экспорт жидкости»
+item.basicFilteredFluidImportUpgrade.name=Улучшение «Базовый жидкостный фильтр импорта»
+item.filteredFluidImportUpgrade.name=Улучшение «Жидкостный фильтр импорта»
+item.basicFilteredFluidExportUpgrade.name=Улучшение «Базовый жидкостный фильтр экспорта»
+item.filteredFluidExportUpgrade.name=Улучшение «Жидкостный фильтр экспорта»
+item.reactorTrackerUpgrade.name=Улучшение «Модернизация реактора»
+item.cobbleGenUpgrade.name=Улучшение «Генератор булыжника»
+item.craftingUpgrade.name=Улучшение «Создание»
+item.quantumOverclockerUpgrade.name=Улучшение «Квантовый ускориткль»
+item.efficientSawbladeUpgrade.name=Улучшение «Эфективность пильного диска»
+item.durableSawbladeUpgrade.name=Улучшение «Прочность пильного диска»
+item.creativeUpgrade.name=Творческое улучшение
+
+//Chargepad Upgrade
+item.itemChargePadUpgrade.name=Улучшение заряжающей плиты
+item.upgradeKit.crystalizor.name=Кристализирующий комплект обновления
+item.upgradeKit.mfs.name=Модуль обновления MFS
+item.upgradeKit.lapotronic.name=Лазуротроновый комплект обновления
+item.upgradeKit.fission.name=Распределяющий комплект обновления
+item.padUpgrade.damage.name=Улучшение «Уничтожитель»
+item.padUpgrade.drain.name=Улучшение «Поглотитель»
+item.padUpgrade.proximity.name=Улучшение «Близость»
+item.padUpgrade.wideband.name=Улучшение «Расширитель»
+item.padUpgrade.armorPriority.name=Улучшение «Бронезаряжатель»
+item.padUpgrade.fieldExp1.name=Улучшение «Слабый дистанционный модуль»
+item.padUpgrade.fieldExp2.name=Улучшение «Средний дистанционный модуль»
+item.padUpgrade.fieldExp3.name=Улучшение «Улучшенный дистанционный модуль»
+
+//Inventory Upgrade
+item.inventoryUpgrades.name=Инвентарь (Предмет)
+item.automationUpgrade.name=Улучшение «Автоматизация»
+item.sideAccessUpgrade.name=Улучшение «Доступ»
+item.rotationDisablerUpgrade.name=Улучшение «Запрет поворота»
+item.slotTypeModifierUpgrade.name=Улучшение «Тип слота»
+item.slotAccessModifierUpgrade.name=Улучшение «Доступ слота»
+item.slotSideModifierUpgrade.name=Улучшение «Сторона слота»
+item.redstoneDeconductorUpgrade.name=Улучшение «Изолятор красного сигнала»
+item.slotDiversityUpgrade.name=Улучшение «Модернизация слотов»
+item.stackDiversityUpgrade.name=Улучшение «Разделение стеков»
+item.itemLimiterUpgrade.name=Улучшение «Огнаеичитель стека»
+item.stackLimiterUpgrade.name=Улучшение «Огнаеичитель стека элементов»
+item.itemUpgradeContainer.name=Улучшение «Вместительность»
+
+//TFBP
+item.itemTFBPBase.name=Пустой террачип
+item.itemTFBPMushroom.name=Террачип «Грибы»
+item.itemTFBPCultivation.name=Террачип «Озеленение»
+item.itemTFBPIrrigation.name=Террачип «Орошение»
+item.itemTFBPChilling.name=Террачип «Охлаждение»
+item.itemTFBPDesertification.name=Террачип «Опустынивание»
+item.itemTFBPFlatification.name=Террачип «Выравнивание»
+item.itemBiomeBPCultivation.name=Биомный террачип - «Культивация»
+item.itemBiomeBPDesertification.name=Биомный террачип - «Опустынивание»
+item.itemBiomeBPForestification.name=Биомный террачип - «Озеленение»
+item.itemBiomeBPIrrigation.name=Биомный террачип - «Орошение»
+item.itemBiomeBPMushroom.name=Биомный террачип - «Грибы»
+item.itemBiomeBPUndergrowth.name=Биомный террачип - «Подлесье»
+item.itemBiomeBPChilling.name=Биомный террачип - «Охлаждение»
+
+//Reactor Comp
+item.itemReactorRods.name=Уранный стержень
+item.itemDepletedRods.name=Исчерпанный урановый стержень
+
+item.reactorUraniumSimple.name=ТВЭЛ
+item.reactorUraniumDual.name=Спаренный ТВЭЛ
+item.reactorUraniumQuad.name=Счетверенный ТВЭЛ
+item.itemCellUranEmpty.name=Исчерпанный ТВЭЛ
+item.reactorIsotopeCell.name=Обедненный ТВЭЛ
+item.itemCellUranEnriched.name=Низкообогащенный ТВЭЛ
+
+item.reactorUraniumRedstoneSimple.name=Красный ТВЭЛ
+item.reactorUraniumRedstoneDual.name=Спаренный красный ТВЭЛ
+item.reactorUraniumRedstoneQuad.name=Счетверенный красный ТВЭЛ
+item.itemCellRedstoneEnrichedUranEmpty.name=Исчерпанный красный ТВЭЛ
+item.itemDepletedRedstoneEnrichedUraniumCell.name=Обедненный красный ТВЭЛ
+item.itemCellRedstoneUranEnriched.name=Низкообогащенный красный ТВЭЛ
+
+item.reactorUraniumBlazeSimple.name=Ифритовый ТВЭЛ
+item.reactorUraniumBlazeDual.name=Спаренный ифритовый ТВЭЛ
+item.reactorUraniumBlazeQuad.name=Счетверенный ифритовый ТВЭЛ
+item.itemCellBlazeEnrichedUranEmpty.name=Исчерпанный ифритовый ТВЭЛ
+item.itemDepletedBlazeEnrichedUraniumCell.name=Обедненный ифритовый ТВЭЛ
+item.itemCellBlazeUranEnriched.name=Низкообогащенный ифритовый ТВЭЛ
+
+item.reactorUraniumEnderPearlSimple.name=Эндер-ТВЭЛ
+item.reactorUraniumEnderPearlDual.name=Спаренный эндер-ТВЭЛ
+item.reactorUraniumEnderPearlQuad.name=Счетверенный эндер-ТВЭЛ
+item.itemCellEnderPearlEnrichedUranEmpty.name=Исчерпанный эндер-ТВЭЛ
+item.itemDepletedEnderPearlEnrichedUraniumCell.name=Обедненный эндер-ТВЭЛ
+item.itemCellEnderPearlUranEnriched.name=Низкообогащенный эндер-ТВЭЛ
+
+item.reactorUraniumNetherStarSimple.name=ТВЭЛ обогащенный адской звездой
+item.reactorUraniumNetherStarDual.name=Спаренный ТВЭЛ обогащенный адской звездой
+item.reactorUraniumNetherStarQuad.name=Счетверенный ТВЭЛ обогащенный адской звездой
+item.itemCellNetherStarEnrichedUranEmpty.name=Исчерпанный ТВЭЛ обогащенный адской звездой
+item.itemDepletedNetherStarEnrichedUraniumCell.name=Обедненный ТВЭЛ обогащенный адской звездой
+item.itemCellNetherStarUranEnriched.name=Низкообогащенный ТВЭЛ обогащенный адской звездой
+
+item.reactorUraniumCharcoalSimple.name=ТВЭЛ обогащенный древесным углем
+item.reactorUraniumCharcoalDual.name=Спаренный ТВЭЛ обогащенный древесным углем
+item.reactorUraniumCharcoalQuad.name=Счетверенный ТВЭЛ обогащенный древесным углем
+item.itemCellCharcoalEnrichedUranEmpty.name=Исчерпанный ТВЭЛ обогащенный древесным углем
+item.itemDepletedCharcoalEnrichedUraniumCell.name=Обедненный ТВЭЛ обогащенный древесным углем
+item.itemCellCharcoalUranEnriched.name=Низкообогащенный ТВЭЛ обогащенный древесным углем
+
+item.itemReflectors.name=Отражатели
+item.reactorReflector.name=Нейтронный отражатель
+item.reactorReflectorThick.name=Плотный отражатель нейтронов
+item.reactorReflectorIridium.name=Иридиевый нейтронный отражатель
+
+item.itemCondensators.name=Теплоконденсаторы
+item.reactorCondensator.name=Красный теплоконденсатор
+item.reactorCondensatorLap.name=Лазуритовый теплоконденсатор
+
+item.itemReactorPlating.name=Обшивка реактора
+item.reactorPlatingHeat.name=Теплоемкая обшивка реактора
+item.reactorPlatingExplosive.name=Сдерживающая обшивка реактора
+
+item.itemHeatSwtiches.name=Теплообменники
+item.reactorHeatSwitch.name=Теплообменник
+item.reactorHeatSwitchCore.name=Теплообменник реактора
+item.reactorHeatSwitchSpread.name=Теплообменник компонентов
+item.reactorHeatSwitchDiamond.name=Палепшаны теплообменник
+
+item.itemHeatStorage.name=Охлаждающие капсулы
+item.reactorCoolantSimple.name=Охлаждающая капсула 10k
+item.reactorCoolantTriple.name=Охлаждающая капсула 30k
+item.reactorCoolantSix.name=Охлаждающая капсула 60k
+
+item.itemHeatVent.name=Теплоотводы
+item.reactorVent.name=Теплоотвод
+item.reactorVentCore.name=Теплоотвод реактора
+item.reactorVentGold.name=Разогнанный теплоотвод
+item.reactorVentDiamond.name=Палепшаны теплоотвод
+
+item.reactorSteamVent.name=Паровой теплоотвод
+item.reactorSteamVentCore.name=Паровой теплоотвод реактора
+item.reactorSteamVentGold.name=Разогнанный паровой теплоотвод
+item.reactorSteamVentDiamond.name=Палепшаны паровой теплоотвод
+
+item.reactorElectricVent.name=Электрычны теплоотвод
+item.reactorElectricVentCore.name=Электрычны теплоотвод реактора
+item.reactorElectricVentGold.name=Разогнанный электрычны теплоотвод
+item.reactorElectricVentDiamond.name=Палепшаны электрычны теплоотвод
+
+item.itemInactiveFuelCell.name=Неактивный топливный элемент
+item.reactorHeatpack.name=Нагревающая капсула
+item.reactorVentSpread.name=Теплоотвод компонентов
+
+//Misc item
+item.itemDustIron.name=Железны пыл
+item.itemDustGold.name=Залоты пыл
+item.itemDustCopper.name=Медны пыл
+item.itemDustTin.name=Алавяны пыл
+item.itemDustBronze.name=Бронзавы пыл
+item.itemDustSilver.name=Сярэбраны пыл
+item.itemDustCoal.name=Угальны пыл
+item.itemFuelCoalDust.name=Гидратированная угольная пыл
+item.itemDustClay.name=Глиняны пыл
+item.itemObsidianDust.name=Обсидиановая пыл
+item.itemDustIronSmall.name=Кучка железной пыли
+item.itemNetherrackDust.name=Незеритовая пыл
+item.itemCharcoalDust.name=Древестная угольная пыл
+item.itemFuelCharcoalDust.name=Гидратированная древестная угольная пыл
+item.itemRareEarthDust.name=Редкоземельная пыл
+
+
+item.itemIngotCopper.name=Медны злітак
+item.itemIngotTin.name=Алавяны злітак
+item.itemIngotBronze.name=Бронзавы злітак
+item.itemIngotAdvIron.name=Слиток очищенного железа
+item.itemIngotSilver.name=Серебряный злітак
+item.itemIngotUran.name=Обогащенный уран
+item.itemIngotAlloy.name=Композитный злітак
+item.itemRedstoneEnrichedUranium.name=Обогащенный красный урановый злітак
+item.itemBlazeEnrichedUranium.name=Обогащенный ифритово-урановый злітак
+item.itemEnderPearlEnrichedUranium.name=Обогащенный эндеро-урановый злітак
+item.itemNetherStarEnrichedUranium.name=Обогащенный адской звездой уран
+item.itemCharcoalEnrichedUranium.name=Обогащенный древесным углем урановый злітак
+
+item.itemCellAir.name=Капсула со сжатым воздухом
+item.itemCellCoal.name=Капсула з гидратированным углем
+item.itemCellCoalRef.name=Капсула з угольным топливом
+item.itemCellBio.name=Капсула з биомассой
+item.itemCellBioRef.name=Капсула з биотопливом
+item.itemCellWaterElectro.name=Капсула з электролизованной водой
+item.itemCellFuel.name=Капсула з топдовом
+item.itemCellWoodGas.name=Капсула з древесным газом
+item.itemCellPlasma.name=Капсула з плазмой
+
+item.itemGrinPowder.name=Токсичная пыл
+item.itemFertilizer.name=Удобрение
+item.itemHops.name=Семена
+item.itemCoffeeBeans.name=Кофейные зерна
+item.itemCoffeePowder.name=Молотый кофе
+item.itemTeaLeaf.name=Чайный ліст
+item.itemFlour.name=Мука
+item.itemSpecialFertilizer.name=Гипер-удобрение
+item.itemHempSeeds.name=Семена конопли
+item.itemHemp.name=Конопля
+item.itemReviveFertilizer.name=Восстановительное удобрение
+
+item.itemOreUran.name=Уранавая руда
+item.itemOreIridium.name=Иридиевая руда
+
+item.itemScrap.name=Утильсырье
+item.itemScrapMetal.name=Металлолом
+item.itemMatter.name=Материя
+
+item.itemPartCoalBall.name=Угольный шарик
+item.itemPartCoalBlock.name=Сжатый угольный шарик
+item.itemPartCoalChunk.name=Угольная глыба
+item.itemPartIndustrialDiamond.name=Искусственный алмаз
+item.itemPartCarbonFibre.name=Углеволокно
+item.itemPartCarbonMesh.name=Углеткань
+item.itemPartCarbonPlate.name=Углепластик
+item.itemPartAlloy.name=Композит
+item.itemPartIridium.name=Иридиевый композит
+item.itemPartDCP.name=Плотная медная пластина
+item.itemRareEarthChunk.name=Редкоземельная глыба
+item.itemDeadMagnet.name=Разряженный магнит
+item.itemMagnet.name=Магнит
+item.itemPlasmaCore.name=Плазменное ядро
+
+item.scrapMetalChunk.name=Кусок металлолома
+item.scrapMetalBlade.name=Металлическое лезвие
+item.itemRawObsidianBlade.name=Необработанное лезвие из обсидиана
+item.itemObsidianBlade.name=Лезвие из обсидиана
+item.itemTurbineBlade.name=Лопасти турбины
+
+item.itemFuelPlantBall.name=Биомасса
+item.itemFuelPlantCmpr.name=Сжатая биомасса
+item.itemFuelCoalCmpr.name=Гидратированный уголь
+item.itemBioMesh.name=Органическая сетка
+item.itemBioBall.name=Ком биомассы
+item.itemRawBioFiber.name=Сырое Био-волокно
+item.itemCompressedBioBall.name=Сжатый био-куб
+item.itemBioChunk.name=Био-кусок
+
+item.itemToolPainter.name=Валик
+item.itemTFBP.name=Пустой террачип
+item.itemTerraformerBiomeBlueprint.name=Пустой биомный террачип
+
+item.itemRubber.name=Резина
+item.itemPartCircuit.name=Электросхема
+item.itemPartCircuitAdv.name=Улучшенная электросхема
+
+item.itemTinCan.name=Консервная банка
+item.itemMugEmpty.name=Кружка
+
+item.itemPartPellet.name=Сжатая будаўнічая пена
+
+//Crops
+ic2.crop.Weed.name=Сорняк
+ic2.crop.Wheat.name=Пшеница
+ic2.crop.Pumpkin.name=Тыква
+ic2.crop.Melon.name=Арбуз
+ic2.crop.Dandelion.name=Одуванчик
+ic2.crop.Rose.name=Роза
+ic2.crop.Blackthorn.name=Терн
+ic2.crop.Tulip.name=Тюльпан
+ic2.crop.Cyazint.name=Гиацинт
+ic2.crop.Venomilia.name=Веномилия
+ic2.crop.Reed.name=Рид
+ic2.crop.Stickreed.name=Резиновый Тростник
+ic2.crop.Cocoa.name=Какао
+ic2.crop.Ferru.name=Железняк (Феррий)
+ic2.crop.Malachite.name=Малахит
+ic2.crop.Stannum.name=Олово
+ic2.crop.Aurelia.name=Золотница (Аурелия)
+ic2.crop.Argentum.name=Серебро (Аргентум)
+ic2.crop.Redwheat.name=Красная пшеница (Рэдник)
+ic2.crop.NetherWart.name=Адский нарост
+ic2.crop.TerraWart.name=Земляной Нарост
+ic2.crop.Coffee.name=Кофе
+ic2.crop.Hops.name=Хмель
+ic2.crop.Carrots.name=Морковь
+ic2.crop.Potato.name=Картофель
+ic2.crop.RedMushroom.name=Красный гриб
+ic2.crop.BrownMushroom.name=Коричневый гриб
+ic2.crop.Cacti.name=Кактус
+ic2.crop.Tea.name=Чай
+ic2.crop.oakSapling.name=Дубовый саженец
+ic2.crop.spruceSapling.name=Еловый саженец
+ic2.crop.birchSapling.name=Березовый саженец
+ic2.crop.jungleSapling.name=Тропический саженец
+ic2.crop.acaciaSapling.name=Саженец акации
+ic2.crop.dark_oakSapling.name=Саженец темного дуба
+ic2.crop.BeetRoots.name=Свекольные корни
+ic2.crop.BlueWheat.name=Водяная пшеница
+ic2.crop.Hemp.name=Конопля
+ic2.crop.Lumilia.name=Люмилия
+ic2.crop.GlowShroom.name=Светопыль
+
+//CropSorting
+cropSorter.allStats.name=Все характеристики
+cropSorter.growth.name=Рост
+cropSorter.gain.name=Усиление
+cropSorter.resistance.name=Сопротивление
+cropSorter.count.name=Количество
+
+//Fluids
+fluid.coolant.name=Хладагент
+fluid.woodgas.name=Древесный газ
+fluid.steam.name=Пар
+
+//DamageSource
+death.electricity=%1$s убит током.
+death.attack.electricity=%1$s убит током.
+death.nuke=%1$s подорван ядерной бомбой.
+death.attack.nuke=%1$s подорван ядерной бомбой.
+death.radiation=%1$s умер от радиации.
+death.attack.radiation=%1$s был погребён радиактивным излучением.
+
+//Potion
+potion.radiation.name=Радиация
+
+//Tabs
+itemGroup.ic2=IndustrialCraft 2
+
+//Container
+container.inventory=Инвентарь
+
+//Personal Storage
+container.personalAllowView.name=Разрешить просмотр
+container.personalVoid.name=Удалить всё
+container.personalAllowInjection.name=Разрешить импорт из мира
+container.personalAllowExtraction.name=Разрешить экспорт в мир
+container.personalVoidExtra.name=Необходимо удерживать Shift и Ctrl
+container.personalAllowTeam.name=Разрешить взаимодействие учасникам команды
+
+//Trade-O-Mat
+container.tradeMoneyNeeded.name=Цена: 
+container.tradeMoneyNeededTrade.name=Цена: %s монет
+container.tradeTradingCap.name=Торговое соединение: 
+container.tradeDelay.name=Задержка обмена: 
+container.tradeNothing.name=Ничего не произошло
+container.tradeStock.name=Наличие: 
+container.tradeCount.name=Сделок: 
+container.tradeNeeds.name=Скупка: 
+container.tradeNeedsEntry.name=%1$s: %2$sx
+container.tradeProvided.name=Продажа:
+container.tradeNotPresent.name=Сделка не может быть выполнена
+container.tradeNoRoom.name=Отсутствует выходной предмет
+container.tradeEnergyProvided.name=Предлагается EU:
+container.tradeInfinite.name=Бесконечный запас
+container.tradeSupportsOre.name=Поддерживает OreDictionary
+container.tradeIgnoresNBT.name=Игнорирует NBTData
+container.tradeHasDelay.name=Имеет задержку между сделками: %s
+container.tradeHasCap.name=Имеет ограничение кол-ва сделок на игрока: %s
+container.marketOreDict.name=Использовать OreDictionary
+container.marketAddEntry.name=Добавить
+container.marketMoneyEntry.name=Значение: %s
+container.marketOreDictMoneyEntry.name=Ore: %1$s, Значение: %2$s
+
+
+//Trade-O-Mat button
+container.tradeDeleteTrade.name=Удалить сделку
+container.tradeNewTrade.name=Создать сделку
+container.tradeDeleteSubTrade.name=Удалить суб-сделку
+container.tradeAddCustomTrade.name=Создать обычную сделку
+container.tradeCustomInfo.name=Информация о сделке
+container.tradeNewSubTrade.name=Новая/следующая суб-сделка
+container.tradeCreative.name=Творческий запас
+container.tradeMoney.name=Использовать деньги
+container.tradeSetDelay.name=Задержка между сделками
+container.tradeSetCap.name=Ограничение кол-ва сделок на игрока
+container.tradeFinalizeTrade.name=Создать сделку
+container.tradeCancelTrade.name=Отменить
+container.tradeSupportLocalMarket.name=Использовать локальный рынок
+container.tradeSupportGlobalMarket.name=Использовать глобальный рынок
+container.tradeUseOreDict.name=Использовать OreDictionary
+container.tradeUseNBT.name=Использовать NBT
+container.tradeLoad.name=Загрузка сделок
+container.tradeButton.name=Торговля
+container.tradeRequirements.name=Торговые требования
+container.tradeShowItems.name=Показать элементы наведения (HoverItems)
+
+//Solar Turbine
+container.solarTurbineHeat.name=Темп.:
+container.thermalAmbientHeat.name=AM Темп.
+container.thermalAmbientEU.name=EU/тик:
+
+//Energy Storage
+container.energyStorageCharge.name=Заряд:
+container.energyStorageOutput.name=Выход: %1$s EU/t
+container.redstoneModeNothing.name=Не испускать сигнал
+container.redstoneModeFull.name=Испускать сигнал если заряжено
+container.redstoneModePartiallyFilled.name=Испускать сигнал если частично заряжено
+container.redstoneMode50Full.name=Испускать сигнал если заряжено более половины
+container.redstoneMode50Empty.name=Испускать сигнал если заряжено менее половины
+container.redstoneModeEmpty.name=Испускать сигнал если хранилище разряжено
+container.redstoneModeOutputWithoutSignal.name=При подаче красного сигнала не отдавать энергию
+container.redstoneModeOutputWithoutSignalWhenFull.name=При подаче красного сигнала отдавать энергию только в том случае если хранилище заполнено
+
+container.energyPerPacket.name=EU/Пакет: %s 
+container.packetCountPerTick.name=Макс.пакет/t: %1$sx %2$sEU
+container.packetsPerTick.name=Макс.пакет/t: %1$sx
+
+container.energyIncrease.name=Время зарядки: %s
+container.energyDecrease.name=Время разрядки: %s
+container.energyNothing.name=Нет потока энергии
+container.energyOutput.name=Out: 
+container.nothingHappend.name=Ничего не произошло
+
+container.stationModeCharging.name=Энергохранитель: Режим зарядки батареи
+container.stationModeDischarging.name=Энергохранитель: Режим аккумуляторной батареи
+container.stationModeBatbox.name=Энергохранитель: Стационарный режим
+
+container.sendingModeLow.name=Режим энергии: Режим нізкага потребления энергии
+container.sendingModeHigh.name=Режим энергии: Режим высокага потребления энергии
+container.sendingModePacket.name=Режим энергии: Режим пакетной передачи энергии
+
+//AdvMachine
+container.machineSpeed.name=Скорость:
+container.machinePressure.name=Давление:
+container.machineVacuum.name=Вакуум:
+container.machineHeat.name=Темп.:
+
+//Sound beacon
+container.soundBeaconTile.name=Блоки
+container.soundBeaconItem.name=Предметы
+container.soundBeaconArmor.name=Броня
+container.soundBeaconEffect.name=Эффект: %s
+container.soundBeaconRange.name=Радиус: %s Блоков
+
+//Worktable
+container.ignoreDurability.name=Игнорирывать прочность
+container.restock.name=Инвентарь для восстановления запасов
+container.recursive.name=Рекурсивное создание
+container.worktableCenterGui.name=Центрировать Gui
+container.worktableError.requiredReqursive.name=Недостаточно %s и рекурсивное создание отключено
+container.worktableError.noRecipeFound.name=Не удалось найти рецепт для %s
+container.worktableError.toDeepRecipe.name=Рецепту требуется больше 5 глубоких суб-созданий.
+container.worktableError.recipeToComplex.name=Выход за границу суб-созданий: %1$s суб-созданий на рецепт.
+container.worktableError.noSubRecipeFound.name=Не удалось найти рецепт создания %1$s, необходимый для создания %2$s
+container.worktableError.subCraftFailed.name=Не удалось создать предмет %1$s необходимый для создания %2$s
+container.worktableError.subCraftFailedUnknown.name=Суб-создание %s не удалось. Неизвестно почему
+container.worktableError.toMuchOverflow.name=Слишком много побочных ресурсов для данного рецепта.
+container.onlyCollection.name=Некотрыре из рецептов не подходят для сбора.
+
+//Scanner
+container.scannerReset.name=Сброс
+
+//ReactorPlanner
+//Sorter Buttons
+container.compCategoryButton.name=Сорт.
+container.comCategoryAll.name=Все компоненты
+container.compCategoryRods.name=Топлевные элементы
+container.compCategoryCoolant.name=Охлаждающие элементы
+container.compCategoryCondensators.name=Конденсаторы
+container.compCategoryHeatPacks.name=Тепловые элементы
+container.compCategoryVents.name=Теплоотводы
+container.compCategorySpreadVents.name=Распределительные теплоотводы
+container.compCategorySwitches.name=Теплообменники
+container.compCategoryPlates.name=Обшивки
+container.compCategoryReflectors.name=Отражатели нейтронов
+container.compCategoryIsotopics.name=Обедненные ТВЭЛ'ы
+
+//Planner Buttons
+container.simulationStart.name=Старт
+container.simulationStop.name=Стоп
+container.simulationPause.name=Пауза
+container.simulationRun.name=Запуск
+container.simulationCompile.name=Собрать
+container.simulationReset.name=Сброс
+container.simulationBackup.name=Сохр.
+container.simulationRestore.name=Восст-ить
+container.simulationClear.name=Очистить
+container.setupExport.name=Экспорт
+container.setupImport.name=Импорт
+container.setupImportFailedNoDecoder.name=Декодер не найден
+container.setupImportingFailed.name=Ошибка импорта программы установки
+container.setupImported.name=Программа успешно импортирована
+container.setupExported.name=Программа успешно экспортирована
+container.setupExportFailed.name=Не удалось экспортировать программу
+container.setupExporterFailed.name=Экспортеру не удалось создать программу установки
+container.setupExportFailedNoEncoder.name=Кодировщик не найден
+container.componentsReplaced.name=Всего замен: %s
+container.reactorPrediction.name=Прогнозирование
+container.reactorSetupInfo.name=Информация
+container.reactorSetupName.name=Установка имени
+container.reactorComponentInfo.name=Статус компонентов
+container.reactorActiveInfo.name=Информация о рабочем состоянии
+container.reactorButton.name=Реактор
+container.steamReactorButton.name=Паровой рэактар
+container.reactorStartingHeat.name=Старт-я темп.
+container.reactorCustomTime.name=Уст-ка таймера
+container.reactorSimSpeed.name=Скор-ть симуляции
+
+//Simulation Info
+container.expectedSteamProduction.name=Ожидаемая пара/t: %s
+container.totalSteamProduction.name=Общая пара: %s mb
+container.expectedEUProduction.name=Ожидаемая генерация энергии EU/t: %s
+container.totalEUProduction.name=Сгенерировано EU: %s
+container.totalHeatProduction.name=Всего тепла: %s
+container.explosionEffectModifier.name=Эффект взрыва: %s
+container.reactorEfficiency.name=Эффективность (EU): %1$s из %2$s
+container.isBreeder.name=Производитель: %s
+container.expectedHeat.name=Ожидаемое тепло: %s
+container.expectedHeatPackHeat.name=Тепло (Пакетов): %s
+container.expectedVentCooling.name=Охлаждение теплоотводами: %s
+container.expectedReactorCooling.name=Охлаждение реактора: %s
+container.excessCooling.name=Переохлаждение: %s
+container.excessHeating.name=Перегрев: %s
+container.currentEUProduction.name=Генерация EU/t: %s
+container.currentProducedEU.name=Произведено EU: %s
+container.activeSteamProduction.name=Произведенный пар/t: %s mB
+container.currentWaterUsed.name=Использовано воды: %s mB
+container.currentHeat.name=Температура ядра: %s
+container.currentMaxReactorHeat.name=Температура плавления: %s
+container.currentHeatEffectMod.name=Шанс перегрева: %s
+container.currentSimulationTime.name=Время симуляции: %s Реактор тиков
+container.currentActiveTime.name=Всего времени прошло: %1$s из %2$s
+container.noComponentSelected.name=Нет выбранного компонента
+
+//Component Stats
+container.reactorStatHeatProduction.name=Базовая генерация тепла: %s
+container.reactorStatEnergyProduction.name=Базовая генерация энергии: %s
+container.reactorStatRodAmount.name=Кол. стержней: %s
+container.reactorStatPulseAmount.name=Внутренние импульсы: %s
+container.reactorStatSelfCooling.name=Самоохлаждение: %s
+container.reactorStatPartCooling.name=Охлаждение компонентов: %s
+container.reactorStatReactorCooling.name=Поглощено тепла реактором: %s
+container.reactorStatPartChange.name=Теплопередача компонента: %s
+container.reactorStatReactorChange.name=Теплопередача реактора: %s
+container.reactorStatHeatStorage.name=Макс. темп.: %s
+container.reactorStatReactorMaxHeat.name=Доп. темп. реактора: %s
+container.reactorStatReactorEEM.name=Модификатор взрыва: %s
+container.reactorStatMaxDurability.name=Макс. урон: %s
+container.reactorStatEnergyUsage.name=Базовое использование энергии: %s
+container.reactorStatWaterConsumtion.name=Потребление воды: %s
+container.reactorStatSteamProduction.name=Производство пара: %s
+container.reactorStatWaterStorage.name=Хранение воды: %s
+
+//Electric Enchanter
+container.enchantingStart.name=Старт
+container.addXP.name=Добавить XP
+container.removeXP.name=Удалить XP
+container.enchLevel.name=Уровень: %s
+container.everything.name=Все
+
+//MassFab
+container.fabricationProgress.name=Прогресс:
+container.scrapAmplifier.name=Ускорение:
+
+//Uranium Enricher
+container.uranType.name=Тип урана: %s
+container.uranAmount.name=%1$s / %2$s
+container.noUran.name=Ничего
+
+//Machine Buffers
+container.upgradeTick.name=Обновление по тику
+container.upgradeTickNotify.name=Уведомлять о обновлении
+
+//buttons
+container.buttonCtrl.name=Ctrl: 
+container.buttonAlt.name=Alt: 
+container.buttonShift.name=Shift: 
+
+//Time
+container.day.name=День
+container.hour.name=Час
+container.minute.name=Минута
+container.second.name=Секкунда
+
+//FluidTank
+container.fluidTank.name=§f§lЖидкостныйРезервуар§r
+container.fluidStored.name=Жидкость: %s
+container.fluidAmount.name=Хранимая жидкость: %1$s mB / %2$s mB
+container.fluidNone.name=Нет жидкости
+container.fluidAmountSingle.name=Количество жидкости: %s
+
+//EU
+container.eu.name=%s EU
+container.euATick.name=%s EU/t
+container.packetEuATick.name=%1$sx %2$s EU/t
+
+//Items
+container.saveButton.name=Сохранить
+container.staticValue.name=Статическое значение
+container.invertedValue.name=Инвертивное значение
+container.byteValue.name=Значение байта
+container.sideInfo.name=Сторона: %s
+container.comparatorInfo.name=Режим: %s
+
+//Crop Analyzer
+container.cropUnknown.name=НЕИЗВЕСТНЫЙ
+container.cropTier.name=Уровень: %s
+container.cropOwner.name=Обнаружен: 
+container.cropGrowth.name=Рост: 
+container.cropResistance.name=Сопротивляемость: 
+container.cropGain.name=Прирост: 
+container.cropCount.name=Количество: %s
+container.enough.name=Достаточно!
+container.next.name=Cледующий
+container.sort.name=Сортировать
+container.catAll.name=Все семена
+
+//Inv Upgrades
+container.invUpgradeSlotID.name=ID Слота: %s
+container.invUpgradeSlotType.name=Тип: %s
+container.upgradeInvert.name=Инвертировать
+container.upgradeUseMeta.name=Сравнивать Meta
+container.upgradeUseNBT.name=Сравнивать NBT
+container.upgradeUseOreDict.name=Сравнивать Ore-Dictionary
+
+//Teleporter
+container.teleporterNewName.name=Цель телепортатора: %s
+container.teleporterInvalidTarget.name=Невалидная цель. Удаление позиции
+container.teleporterTargetTypeInvalid.name=Телепортация затруднена на стороне цели
+container.teleporterTeleport.name=Телепорт
+container.teleporterRename.name=Переим.
+
+//tileInfo
+tileInfo.wrenchCantPick.name=Гаечный ключ не может взаимодействовать пока инвентарь заполнен.
+tileInfo.reactorHeat.name=Темп.: %1$s / %2$s
+tileInfo.machineFuel.name=Топливо: %1$s / %2$s
+tileInfo.machineProgress.name=Прогресс: %1$s / %2$s
+tileInfo.machineNotifies.name=Уведомляет буферы
+tileInfo.secondaryMachineProgress.name=Вторичный прогресс: %1$s / %2$s
+tileInfo.machineSpeed.name=Скорость: %1$s / %2$s
+tileInfo.cableColor.name=Цвет кабеля: %1$s
+tileInfo.ampliefier.name=Усилитель: %1$s / %2$s
+tileInfo.itemTransferTier.name=Скорость передачи: %s EU
+tileInfo.sinkTier.name=Входной уровень: %s
+tileInfo.sourceTier.name=Исходящиц уровень: %s
+tileInfo.euTier.name=Уровень энергии: %s
+tileInfo.euStorage.name=Хранимая энергия: %1$s / %2$s EU
+tileInfo.euOutput.name=Макс. Вход: %1$s EU
+tileInfo.packetCount.name=Исходящих пакетов в тик: %s
+tileInfo.euUsage.name=Использование энергии: %s EU
+
+//Crop info
+tileInfo.cropMaxScan.name=Уровень сканирования уже достиг максимума
+tileInfo.cropScanIncrease.name=Увеличение уровня сканирования до: %s
+tileInfo.cropScanIncreaseFailed.name=Недостаточно энергии для увеличения уровня сканирования
+tileInfo.cropUnknown.name=%1$sНеизвестный посев
+tileInfo.cropName.name=Название посева:%3$s %1$s (от %2$s)
+tileInfo.cropSize.name=Размер посева:%3$s %1$s / %2$s
+tileInfo.cropNutrient.name=Накопление питательных веществ:%3$s %1$s / %2$s
+tileInfo.cropWater.name=Хранение воды:%3$s %1$s / %2$s
+tileInfo.cropWeedEx.name=Накопление средства от сорняков:%3$s %1$s / %2$s
+tileInfo.cropNutrientPoints.name=Питательные вещества посева:%2$s %1$s
+tileInfo.cropHumidityPoints.name=Урожайность:%2$s %1$s
+tileInfo.cropAirPoints.name=Качество воздуха для урожая:%2$s %1$s
+tileInfo.cropGrowthPoints.name=Точки роста:%3$s %1$s / %2$s
+tileInfo.cropGrowStat.name=Стабильность роста:%2$s %1$s
+tileInfo.cropGainStat.name=Коэффициент прироста:%2$s %1$s
+tileInfo.cropResistanceStat.name=Стабильность сопротивления:%2$s %1$s
+
+//BeerInfo
+tileInfo.beerType.name=Тип: %s
+tileInfo.beerAge.name=Возвраст: %s
+tileInfo.beerWater.name=Литры: %1$s / %2$s
+tileInfo.beerWheat.name=Сухой остаток: %1$s / %2$s
+tileInfo.beerHops.name=Хмель: %1$s / %2$s
+tileInfo.beerRatioWheat.name=Доля пшена: %s
+tileInfo.beerRatioHops.name=Доля хмеля: %s
+tileInfo.beerRatioTime.name=Время брожения: %s
+tileInfo.beerBeer.name=Пиво
+tileInfo.beerRum.name=Ром
+
+//itemInfo
+itemInfo.electricTransferRate.name=Скорость передачи: %s EU
+itemInfo.electricTransferRateVariable.name=Переменная
+itemInfo.electricMaxIn.name=Макс. Вход: %s EU
+itemInfo.electricMaxStorage.name=Макс. хранение: %s EU
+itemInfo.electricTransformer.name=Вход: %1$s EU, Выход: %2$s EU 4x
+itemInfo.electricProduction.name=Генерация: %s EU
+itemInfo.updatesSlowly.name=Обновления производятся чрезвычайно медленно (каждые 5 мин)
+itemInfo.chargePadWrongSide.name=Обновление необходимо вводить снизу
+itemInfo.treeTapEffect.name=Добавляет липкую смолу непосредственно в ваш инвентарь
+itemInfo.losslessWrenchModeOn.name=Включение режима "Без потерь"
+itemInfo.losslessWrenchModeOff.name=Отключение режима "Без потерь"
+itemInfo.losslessWrenchUses.name=Режим "Без потерь" использовался: %s раз
+itemInfo.losslessWrenchInfiniteUses.name=Полностью без потерь
+itemInfo.lossChance.name=Шанс удачного выпадения: %s
+itemInfo.enabledMowing.name=Электрокоса отключена
+itemInfo.disabledMowing.name=Электрокоса включена
+itemInfo.disableDrillMode.name=Режим "Грязь" отключен
+itemInfo.enableDrillMode.name=Режим "Грязь" включен
+itemInfo.drillModeSwitch.name=Переключение режима "Грязь"
+itemInfo.drillProbing.name=сканируйте область перед вами, удерживая сканер
+itemInfo.drillProbeResult.name=[Буровое сканирование]: Значение руд в области 3x%1$sx3 составляет: %2$s
+itemInfo.drillRockCutter.name=Добывать безумно быстро только камень
+itemInfo.noTeleportTarget.name=Нет цели для телепортации
+itemInfo.clearedTeleporterTarget.name=Цель удалена
+itemInfo.teleporterTargetSet.name=Цель установлена
+itemInfo.teleporterTargetName.name=Цель: %s
+
+
+//Jetpack
+itemInfo.jetpackRecipe.name=Броня добавляет / удаляет рецепт. Примечание: данные инвентаризации будут удалены!
+itemInfo.jetpackArmor.name=Броня: %s
+itemInfo.jetpackArmorDurability.name=Прочность брони: %1$s / %2$s
+itemInfo.jetpackJumpToFly.name=Полет
+itemInfo.jetpackModeSwitch.name=Переключение между режимами полета
+itemInfo.jetpackToggle.name=Включить/отключить реактивный ранец
+itemInfo.jetpackQuickToggle.name=Быстрое изменение режима парения во время его нажатия
+itemInfo.jetpackToggleRocket.name=Включить/отключить режим ракеты
+itemInfo.jetpackChargeRocket.name=Изменить режим ракеты
+itemInfo.jetpackReleaseRocket.name=Высвободить ракетный заряд
+itemInfo.jetpackNuclearHeat.name=Температура реактора: %1$s / %2$s
+itemInfo.jetpackNuclearCompHeat.name=Средняя долговечность реактора: %s
+itemInfo.jetpackOn.name=Реактивный ранец включен
+itemInfo.jetpackOff.name=Реактивный ранец отключен
+itemInfo.jetpackUsage.name=Нажмите клавиша Alt (%1$s) и клавишу переключения режимов (%2$s) чтобы переключить реактивный ранец
+itemInfo.rocketCharge.name=Ракетный заряд: %s
+itemInfo.hoverModeOn.name=Режим «Зависание» включен.
+itemInfo.hoverModeAdvOn.name=Режим «Полное зависание» включен.
+itemInfo.hoverModeOff.name=Режим «Зависание» отключен.
+itemInfo.hoverModeOffForced.name=Отключение режима «Зависание»
+itemInfo.rocketModeOn.name=Режим «Ракета» включен
+itemInfo.rocketModeOff.name=Режим «Ракета» отключен
+itemInfo.rocketModeForcedOff.name=Отключение ражима «Ракета»
+
+//Armor
+itemInfo.qArmorRemovesFire.name=Тушит вас по необходимости
+itemInfo.qArmorFeedsYou.name=Кормит вас, если у вас есть заполненная жестянная банка
+itemInfo.qArmorRemovePotions.name=Убирает з вас эффексты Иссушения/Радиации и различных зелий
+itemInfo.qArmorGivesAir.name=Обеспечивает вас воздухом, если тот отсутствует
+itemInfo.qArmorHighJump.name=Предоставляет вам действительно высокий прыжок
+itemInfo.qArmorHighSpeed.name=дает большую скорость. (Работает и з элитрами)
+itemInfo.staticBootsProduceEU.name=Заряжаеться 0-3EU/t в зависимости от скорости вашего бега.
+itemInfo.solarHelmetProduction.name=Производит %s EU/t пока небо в поле видимости
+itemInfo.nightVisionHudKey.name=Включить/отключить ночное зрение
+itemInfo.nightVisionSeeInTheDark.name=Дает вам возможность видеть в темноте
+itemInfo.nightVisionEnabled.name=Ночное видение включено
+itemInfo.nightVisionDisabled.name=Ночное видение отклюючено
+itemInfo.rubberProvidesAir.name=Предоставляет вам воздух, если он низкий, и если имеются воздушные ячейки
+itemInfo.rubberPreventBurn.name=Защищает вас от огня и позволяет плавать в лаве, если на вас весь костюм
+
+//Electric ToolTip Info
+itemInfo.chargesItems.name=Заряжает электро-предметы находящиеся в горячей панели или в руках
+itemInfo.analyzerModes.name=Переключение между режимами анализатора
+itemInfo.miningLaserModes.name=Переключение между режимами лазера
+itemInfo.euReaderModes.name=Переключение между режимами ваттметра
+itemInfo.euReaderToolTips.name=Находясь в горячей панели будут разблокированы подсказки в других модификациях, таких как Waila/OneProbe
+itemInfo.teleportPlayer.name=Телепортирует игрока на указанную позицию
+itemInfo.teleportTargetSet.name=Если блок является Телепортером, он устанавливает его в качестве цели
+itemInfo.rotateLayer.name=Поворот текущего слоя текстуры
+itemInfo.setLayer.name=Переключение между текстурными слоями
+itemInfo.takeTexture.name=Скопировать текстуру из блока
+itemInfo.putTexture.name=Установить текстуру на блок затвердевшей пены
+itemInfo.putTextureAll.name=Установить текстуру на всех сторонах блока затвердевшей пены
+itemInfo.ScannerAOE.name=Проводит массовое сканирования з основания до высоты игрока
+itemInfo.ScannerIncreaseRadius.name=Увеличеть радиус сканера
+itemInfo.ScannerDecreaseRadius.name=Уменьшить радиус сканера
+itemInfo.ScannerRadiusEffect.name=10x Влияние изменения радиуса
+itemInfo.ScannerLVLChange.name=Изменить редкость ресурсов, которых ищет сканер
+itemInfo.electricSprayerRange.name=Изменяет количество распыляемой пены
+itemInfo.toggleLosslessMode.name=Переключение режима «Без потерь»
+itemInfo.nanoSaberEffect.name=Может уничтожить углеволоконную и квантовую броню
+itemInfo.toggleMachineToolMode.name=Переключения режима инструмента
+itemInfo.accessMachineToolData.name=Чтобы получить доступ к слотам улучшений или параметрам компаратора
+itemInfo.switchAutoRefillMode.name=Переключение режима автозаполнения
+itemInfo.painterRangeEffect.name=Для регулирования области действия
+itemInfo.painterAllSides.name=Красить все стороны сразу
+itemInfo.usbReset.name=Удалить NBTData з карты памяти
+itemInfo.isInverted.name=Инвертировано
+
+//Boat
+itemInfo.whileInBoat.name=Сидя в лодке
+itemInfo.accessTheBoatInventory.name=Доступ к инвентарю лодки
+itemInfo.gainBoatForwardThrust.name=Увеличить тягу двигателя
+itemInfo.gainBoatBackwardsThrust.name=Увеличить обратную тягу двигателя
+itemInfo.resetEngineThrust.name=Сброс мощности двигателя
+
+//Inv Upgrades
+itemInfo.invUpgradeNeedsBound.name=Требуеться связь з механизмом
+itemInfo.invUpgradeSideInfo.name=Сторона: %1$s, Доступ: %2$s
+itemInfo.invUpgradeSideSet.name=Установка стороне %1$s to Доступ: %2$s
+itemInfo.invUpgradeBoundFailed.name=Не удалось загрузить из обработчика инвентаря. Обработчик отключен
+itemInfo.invUpgradeBoundSuccess.name=Настройки из обработчика инвентаризации успешно загружены
+itemInfo.invUpgradeAddSlotsToAll.name=Добавляет все слоты ко всем сторонам
+itemInfo.invUpgradeRemoveAllSlots.name=Удаляет все слоты со всех сторон
+itemInfo.invUpgradeInvertedSettings.name=Инвертированные настройки
+itemInfo.invUpgradeStackSize.name=Макс. стек: %s
+itemInfo.invUpgradeTypeStackSize.name=Предмет: %1$s, Макс. стек: %2$s
+itemInfo.automationInvert.name=Инвертирует улучшение
+itemInfo.modifyStacksize.name=Чтобы изменить макс. размер стека
+itemInfo.modifyInverted.name=Инвертировать значение улучшений
+itemInfo.modifyBig.name=10x модификация
+itemInfo.invUpgradeLoadData.name=Загрузка данных из блока в улучшение
+itemInfo.invUpgradeModifySide.name=Чтобы изменить доступ к стороне блока щелкните
+itemInfo.invUpgradeSlotAccesses.name=Слот: %1$s: (Низ: %2$s, Вверх: %3$s, С: %4$s, Ю: %5$s, З: %6$s, В: %7$s)
+
+//Upgrades
+itemInfo.upgradeCreativeOnly.name=Только для творческого режима
+itemInfo.upgradeLockt.name=Улучшение заблокировано. Нажмите Alt-клавишу (%s) и кликните
+itemInfo.upgradeDirection.name=Напрпвление: %s
+itemInfo.upgradeDirectionSet.name=Направление установлено на: %s
+itemInfo.upgradeOwner.name=Владелец: %s
+itemInfo.upgradeOwnerSet.name=Владелец установлен: %s
+itemInfo.upgradeInjected.name=Внедрение улучшения в блок
+itemInfo.upgradeReachedMax.name=Блок достиг максимального уровня энергии
+itemInfo.upgradeXPStored.name=Запасенный XP: %s Едениц
+itemInfo.upgradeFilter.name=Нажмите на сторону блока (%s) для открытия инвентаря фильтра
+itemInfo.reactorItemsToTrack.name=%s элементов, найденных в реакторе для отслеживания
+itemInfo.reactorTrackMode.name=Режим отслеживания: %s
+itemInfo.trackModeInsert.name=Помещать
+itemInfo.trackModeExtract.name=Извлекать
+itemInfo.reactorTrackType.name=Тип отслеживания: %s
+itemInfo.invalidReactor.name=Недействительная или не поддерживаемая система реакторов
+itemInfo.craftingDelay.name=Задержка между рецептами: %s тиков
+itemInfo.craftingOutput.name=Результат создания: %s
+itemInfo.craftingCause0.name=Недействительный рецепт
+itemInfo.craftingCause1.name=Машина не поддерживает это улучшение
+itemInfo.craftingCause2.name=Не указано направление
+itemInfo.craftingCause3.name=Нет инвентаря для импорта
+itemInfo.craftingCause4.name=Требования рецепта больше, чем представленные в слотах вывода
+itemInfo.craftingStuffed.name=Элементы, застрявшие в выходе: %s
+itemInfo.upgradeStackSize.name=Размер стека транспортировки: %s
+itemInfo.extraDrops.name=Добавляет %s Экс-ресурсов к рецептам з деревом
+itemInfo.durabilityLeft.name=Прочность: %1$s / %2$s
+
+itemInfo.setUpgradeOwner.name=Установить владельца улучшения
+itemInfo.setUpgradeSideOpposite.name=Устанавливает улучшению сторону противоположного блока, на который вы нажимаете.
+itemInfo.setUpgradeSide.name=Установить улучшению сторону блока, на которую вы нажимаете.
+itemInfo.modifyTargetSlot.name=Сменить установленный слот, который сохранит направление.
+itemInfo.cobbleGenInfo.name=Производит 1 %s в секкунду. Поддержка стеков
+
+//TFBP
+itemInfo.tfbpRange.name=Радиус: %s Блоков
+itemInfo.tfbpCost.name=Стоимость за единицу: %s EU
+itemInfo.tfbpBiomeChange.name=Изменяет биом на: %s
+itemInfo.tfbpMushroom.name=Превращает область в грибной биом
+itemInfo.tfbpIrrigation.name=Выращивает лес и убирает песок, дождь так же может пойти
+itemInfo.tfbpCultivation.name=Равнина.
+itemInfo.tfbpChilling.name=Превращает область в зимнюю сказку
+itemInfo.tfbpDesertification.name=Создает пустыню
+itemInfo.tfbpFlatificator.name=Выравнивает область.
+
+//Upgrade Info
+itemInfo.upgradeRecipeTime.name=Дополнительное время рецепта: % тиков
+itemInfo.upgradeRecipeTimeModifier.name=Модификатор длины рецепта: %s
+itemInfo.upgradeSpeed.name=Дополнительная скорость машины: %s /t
+itemInfo.upgradeSpeedModifier.name=Модификатор скорости машины: %s
+itemInfo.upgradeEnergyStorage.name=Дополнительное накопление: %s EU
+itemInfo.upgradeEnergyStorageModifier.name=Модификатор хранения дополнительной энергии: %s
+itemInfo.upgradeEnergyConsumtion.name=Дополнительное потребление энергии: %s EU/t
+itemInfo.upgradeEnergyConsumtionModifier.name=Модификатор потребления энергии: %s
+itemInfo.upgradeExtraEnergyTier.name=Модификатор машинного уровня: %s
+
+//CropAnalyzer
+itemInfo.cropAnalyzeMode.name=Режим анализатора: Сканирование
+itemInfo.cropBreedMode.name=Режим анализатора: Расчет разведения
+itemInfo.cropListClear.name=Очистить
+itemInfo.cropListProcess.name=Процесс
+itemInfo.cropEntryPoints.name=Точки: %s
+itemInfo.cropEntryChance.name=Шанс: %s
+
+//misc tools
+itemInfo.layerSwitched.name=Изменено на слой: %s
+itemInfo.layerRotated.name=Слой: %1$s, Поворот: %2$s
+itemInfo.targetSlot.name=Изменено на слой: %s
+itemInfo.slotInfo.name=Слот %1$s: %2$s
+itemInfo.targetSlotChanged.name=Изменено на слот: %s
+itemInfo.cropButton.name=Нажмите Ctrl, чтобы лучше видеть элементы
+tileInfo.cropDropMode.name=Урожай: %s
+tileInfo.cropSeeds.name=Семена
+tileInfo.cropGain.name=Выгода
+itemInfo.remoteDynamiteLinks.name=Связан з %s динамитом
+itemInfo.remoteDynamiteLinkFailed.name=Этот динамит не связан з данным пультом, невозможно разъединить.
+itemInfo.freqTransmitterClear.name=Частота сброшена
+itemInfo.freqTransmitterSetTarget.name=Частота передатчика связана з телепортером.
+itemInfo.freqTransmitterSameTarget.name=Невозможно связать телепорт.
+itemInfo.freqTransmitterNothingChanged.name=Телепортационная частота без изменений.
+itemInfo.freqTransmitterUpdatedTarget.name=Телепортационная частота установлена.
+itemInfo.freqTransmitterDim.name=Измерение: %s
+itemInfo.freqTransmitterX.name=X: %s
+itemInfo.freqTransmitterY.name=Y: %s
+itemInfo.freqTransmitterZ.name=Z: %s
+itemInfo.machineToolComparatorMode.name=Режим компаратора
+itemInfo.machineToolInventoryMode.name=Режим инвентаря
+itemInfo.machineToolSavedData.name=Данные сохранены
+itemInfo.painterAutoRefillOn.name=Включено автозаполнение
+itemInfo.painterAutoRefillOff.name=Отключено автозаполнение
+itemInfo.painterRange.name=Радиус окрашивания: %s Блоков
+itemInfo.sprayerSize.name=Радиус распыления: %s Блоков
+itemInfo.sprayerUses.name=Количество хранимой пены: %s 
+
+//Misc Items
+itemInfo.badFoodCan.name=Это выглядит плохо...
+itemInfo.coinValue.name=Значение монеты: %s
+
+//EU Reader
+itemInfo.euReaderMode.name=Текущий режим: %s
+itemInfo.euReaderCantFindPath.name=Ничего не найдено...
+itemInfo.euReaderStartNewMeasuring.name=Запуск нового измерения
+itemInfo.euReaderSourceInfo.name=Отдача энергии буфером: %s EU
+itemInfo.euReaderSinkInfo.name=Предел потребителя: %s EU
+itemInfo.euReaderCableLoss.name=Потери провадника: %s EU
+itemInfo.euReaderCableLimit.name=Предел пропускной способности провадника: %s EU
+itemInfo.euReaderAverageEU.name=Измеренная мощность [EU/тик]: Вход:%1$s Выход:%2$s Получение:%3$s (Средн. более %4$s тиков.)
+itemInfo.euReaderTotalEU.name=Измеренная мощность [Всего EU]: Проведено %s EU з момента его загрузки: 
+itemInfo.euReaderAveragePacket.name=Измеренные пакеты [EU/Количество пакетов] более %s тиков: 
+itemInfo.euReaderTotalPacket.name=Измеренные пакеты [EU/Количество пакетов] з момента его загрузки: 
+itemInfo.euReaderEmittingPacket.name=Расходование EU: %1$s Всего: %2$s
+itemInfo.euReaderReceivingPacket.name=Потребление EU: %1$s Всего: %2$s
+itemInfo.euReaderTeleporterDistance.name=Дистанция: %s Блоков.
+itemInfo.euReaderTeleporterCost.name=Потерь энергии на кабель: %s EU
+itemInfo.euReaderTeleporterEntityWeight.name=Телепортеры нуждаются в организации: %1$s %2$s EU для телепортации
+itemInfo.euReaderTeleporterItemWeight.name=100 на каждый полный стек.
+itemInfo.euReaderTeleporterFluidWeight.name=1 за 10 mB жидкости
+itemInfo.euReaderTeleporterEnergyWeight.name=Бесконечная энергетия телепортации для дистанционной стоимости
+itemInfo.euReaderTeleporterHubTargetCount.name=Цели телепортера: %s
+itemInfo.euReaderTeleporterHubTarget.name=Цель телепортера: %s
+itemInfo.euReaderTeleporterHubTargetDistance.name=Дистанция: %s
+itemInfo.euReaderTeleporterHubTargetCost.name=Стоимость: %s EU
+
+//Scanner
+itemInfo.scannerRange.name=Радиус сканирования: %s Блоков
+itemInfo.scannerAll.name=Добыча всех блоков
+itemInfo.scannerFluid.name=Поиск только жидкостей
+itemInfo.scannerTargets.name=Цели сканера:
+itemInfo.scannerNoTargets.name=Нет целей
+itemInfo.scannerNextScanLevel.name=[Сканер]: Уровень сканирования: %s
+itemInfo.scannerOreDensity.name=РЕЗУЛЬТАТ СКАНИРОВАНИЯ: Всего руды в данной плоскости %s
+itemInfo.scannerOreValue.name=РЕЗУЛЬТАТ СКАНИРОВАНИЯ: Всего руды в данной области %s
+
+//Laser
+itemInfo.laserMode.name=Режим лазера: %s
+itemInfo.laserModeMining.name=Добыча
+itemInfo.laserModeLowFocus.name=Низкий фокус
+itemInfo.laserModeLongRange.name=Дальний
+itemInfo.laserModeHorizontal.name=Горизонтальный
+itemInfo.laserModeSuperHeat.name=Супер-тепло
+itemInfo.laserModeScatter.name=Разброс
+itemInfo.laserModeExplosive.name=Взрывоопасный
+itemInfo.laserModeTracking.name=Отслеживание
+itemInfo.laserWrongAim.name=Угол добывающего лазера слишком велик для авто-прицеливания
+itemInfo.laserNeedsTarget.name=Нет цели. Посмотрите на живое существо и стреляйте
+
+/Reactor Components
+itemInfo.steamVentWater.name=Хранилище воды: %s
+itemInfo.steamVentHeat.name=Потребление тепла: %s
+itemInfo.steamVentSteam.name=Производство пара/тик: %s
+
+//Boat
+itemInfo.boatForce.name=Скорость двигателя: %s
+itemInfo.boatCharge.name=Заряд: %s
+
+//Misc info
+miscInfo.northFacing.name=Север
+miscInfo.southFacing.name=Юг
+miscInfo.eastFacing.name=Восток
+miscInfo.westFacing.name=Запад
+miscInfo.upFacing.name=Вверх
+miscInfo.downFacing.name=Вниз
+miscInfo.nullFacing.name=Не указано
+miscInfo.null.name=None
+miscInfo.nothingHappend.name=Ничего не произошло
+miscInfo.accessNothing.name=Ничего
+miscInfo.accessImport.name=Импорт
+miscInfo.accessExport.name=Экспорт
+miscInfo.accessBoth.name=Оба
+miscInfo.pressCtrl.name=%1$s Ctrl%2$s - инструкций управления
+miscInfo.pressShift.name=%1$s Shift%2$s - информация
+miscInfo.pressAlt.name=%1$s Alt%2$s - статистическая информация
+miscInfo.pressTo.name=Нажмите (%1$s) для: %2$s
+miscInfo.pathLoss.name=Packet Loss: %s
+miscInfo.supportedUpgrades.name=Улучшение поддерживаеться данной машиной.
+miscInfo.onItemRightClick.name=Действия по правому клику
+miscInfo.onBlockClick.name=Действия по клику на блок
+miscInfo.openTheItemInventory.name=Доступ к инвентарю
+miscInfo.achievementSaved.name=Достижение %s сохранено. Когда достижение будет открыто оно автоматически выполниться
+miscInfo.yes.name=Да
+miscInfo.no.name=Нет
+
+//comparator
+comparatorInfo.compAmplifier.name=Хэш ускоритель
+comparatorInfo.compEuStorage.name=Хранение EU
+comparatorInfo.compXpStorage.name=Хранение XP
+comparatorInfo.compEnchanterMode.name=Режим чарователя
+comparatorInfo.compMachineFuel.name=Машинное топливо
+comparatorInfo.compPersonalTank.name=Резервуарное хранилище
+comparatorInfo.compMachineProgress.name=Прогресс
+comparatorInfo.compReactorHeat.name=Температура реактора
+comparatorInfo.compHeat.name=Темп.
+comparatorInfo.compMachineSpeed.name=Скорость машины
+comparatorInfo.compUranEnricherFuel.name=Обогащенное топливо
+comparatorInfo.compMachineSecondProgress.name=Вторичный прогресс машины
+comparatorInfo.compWaterGeneratorWater.name=Блоки топливных генератараў
+
+//Tooltip
+tooltip.SinkHudOnly.name=Только для потребителей энергии
+tooltip.WireHudOnly.name=Только провада
+tooltip.SourceHudOnly.name=Только поставщики энергии
+tooltip.StorageHudOnly.name=Только накопители энергии
+tooltip.ContainerHudOnly.name=Только энергетические контейнеры
+tooltip.HudAll.name=Все
+tooltip.HudDisabled.name=Выключено
+
+//Measonure mode
+measureMode.averageEU.name=Среднее измерение
+measureMode.tileInfo.name=Измерение способности
+measureMode.totalEmitted.name=Измерение суммарно пропущенного тока
+measureMode.packetReading.name=Измерение пакетов
+measureMode.totalPackets.name=Общее количество пакетов
+measureMode.emitPath.name=Исходный путь
+measureMode.receivePath.name=Средство отображения пути
+measureMode.area.name=Область исходного пути
+measureMode.areaReverse.name=Область реверса
+
+//slotType
+slotType.input.name=Входные слоты
+slotType.secondInput.name=Вторичные въодные слоты
+slotType.output.name=Слоты результата
+slotType.fuel.name=Топливные слоты
+slotType.fluidFuel.name=Жидкотоплевные слоты
+slotType.charge.name=Заряжающие слоты
+slotType.discharge.name=Разряжающие слоты
+slotType.reactor.name=Реакторные слоты
+slotType.tools.name=Слоты для инструментов
+slotType.batteryStation.name=Слоты аккумуляторной батареи
+slotType.fertilizer.name=Слоты удобрений
+slotType.hydration.name=Гидрационные слоты
+slotType.weedEx.name=Слоты средства от сорняков
+slotType.books.name=Слоты для книг
+slotType.storage.name=Слоты хранилищ
+
+//jei
+jeiInfo.EUNeeded.name=Требуеться %s EU
+jeiInfo.dualRecipe.name=Двойной рецепт
+jeiInfo.chargeRecipe.name=Рецепт зарядки
+jeiInfo.dischargeRecipe.name=Рецепт зарядки
+jeiInfo.needEUReader.name=Требуется Ваттметр для получения данных
+jeiInfo.switchedShowingMode.name=Режим HUD: %s
+jeiInfo.isFuelable.name=Заправленность
+jeiInfo.isFuelablePoints.name=Заправленно: %s
+jeiInfo.hiddenRecipe.name=Скрытый рецепт
+jeiInfo.xpProduction.name=%s XP
+jeiInfo.scrapboxChance.name=Шанс: %s
+jeiInfo.randomAmount.name=Случайный: %1$s-%2$s
+jeiInfo.randomDrop.name=Случайное выпадение
+jeiInfo.fuelValue.name=Топлива: %s
+jeiInfo.fuelMultiplier.name=Топливный множитель: %s
+jeiInfo.repairEffect.name=Восстановление: %s
+jeiInfo.burnTime.name=Время сгорания: 
+jeiInfo.ticks.name=%s Тиков
+jeiInfo.points.name=Очки: %s
+jeiInfo.needed.name=Необходимо: %s~
+
+//Config
+configInfo.configUpdated.name=Конфигурация синхронизированна з сервером. Всё в порядке
+configInfo.configUpdatedWorld.name=Конфигурация синхронизированна з сервером. Для предотвращения ошибок перезацдите на сервер.
+configInfo.configUpdatedGame.name=Конфигурация синхронизированна з сервером. Перезагрузите игру, чтобы предотвратить ошибки.
+
+//Achievement
+achievement.acquireMatter=Розовый сгусток
+achievement.acquireMatter.desc=Получите материю
+achievement.acquireRefinedIron=Лучше чем железо
+achievement.acquireRefinedIron.desc=Выплавьте злітак очищенного железа.
+achievement.acquireResin=Липкая ситуация
+achievement.acquireResin.desc=Соберите каучук з гевеи при помощи краника.
+achievement.buildBatBox=Есть где хранить
+achievement.buildBatBox.desc=Сделайте энергохранитель.
+achievement.buildCable=Поток энергии
+achievement.buildCable.desc=Сделайте медные провада.
+achievement.buildEUReader=Расходомер
+achievement.buildEUReader.desc=Создайте ваттметр.
+achievement.buildMachineTool=Управление механизмом
+achievement.buildMachineTool.desc=Сделайте механический инструмент.
+achievement.buildChainsaw=Дровосек-убийца
+achievement.buildChainsaw.desc=Сделайте цепную пилу.
+achievement.buildCoalDiamond=Блеск
+achievement.buildCoalDiamond.desc=Сожмите угольную глыбу в алмаз.
+achievement.buildCompressor=Эпичное давление
+achievement.buildCompressor.desc=Сделайте компрессор.
+achievement.buildCanner=Консервированные продукты
+achievement.buildCanner.desc=Создайте консервную машину.
+achievement.buildVacCanner=Быстрое дренажной трубы
+achievement.buildVacCanner.desc=Сделайте вакуумную консервную машину.
+achievement.buildSingCompressor=Сингулярное сжатие
+achievement.buildSingCompressor.desc=Сделайте сингулярный компрессор.
+achievement.buildRecycler=Гринпис!
+achievement.buildRecycler.desc=Сделайте утилизатор
+achievement.buildCompRecycler=Мировой перестройщик
+achievement.buildCompRecycler.desc=Сделайте кампактны утилизатор.
+achievement.buildDDrill=Ценная обновка
+achievement.buildDDrill.desc=Улучшите ваш шахтерский бур до алмазного бура.
+achievement.buildDrill=Знакомьтесь, Дантист
+achievement.buildDrill.desc=Сделайте шахтерский бур.
+achievement.buildElecFurnace=Очень жаркая тема
+achievement.buildElecFurnace.desc=Сделайте электропечь.
+achievement.buildExtractor=Суперкраник
+achievement.buildExtractor.desc=Сделайте экстрактор.
+achievement.buildCentExtractor=Пожиратель деревьев
+achievement.buildCentExtractor.desc=Сделайте центробежный экстракор
+achievement.buildGenerator=Переносимая энергия
+achievement.buildGenerator.desc=Першшшы генератар
+achievement.buildIndFurnace=Гиперскорость
+achievement.buildIndFurnace.desc=Сделайте индукционную печь
+achievement.buildMFE=Улучшение вместительности
+achievement.buildMFE.desc=Сделайте МФЭ
+achievement.buildMFS=Просто чересчур
+achievement.buildMFS.desc=Сделайте МФСУ
+achievement.buildMacerator=Двойные неприятности
+achievement.buildMacerator.desc=Сделайте дробитель
+achievement.buildRotMacerator=Вращающаяся дробилка
+achievement.buildRotMacerator.desc=Сделайте роторный дробитель
+achievement.buildMassFab=Энергия к материи
+achievement.buildMassFab.desc=Сделайте генератар материи
+achievement.buildMiningLaser=Пора лазеров
+achievement.buildMiningLaser.desc=Сделайте шахтерский лазер
+achievement.buildQArmor=Индустриальное чудо
+achievement.buildQArmor.desc=Сделайте часть квантового костюма
+achievement.buildTeleporter=Межпространственное перемещение
+achievement.buildTeleporter.desc=Сделайте телепортер
+achievement.buildTerraformer=Изменить мир!
+achievement.buildTerraformer.desc=Сделайте тероформер
+achievement.compressUranium=Радиоактивный
+achievement.compressUranium.desc=Сжал уран в топливный злітак
+achievement.dieFromOwnNuke=Да ты псих!
+achievement.dieFromOwnNuke.desc=Умереть от своей ядерной бомбы
+achievement.killCreeperChainsaw=Криперская резня бензопилой
+achievement.killCreeperChainsaw.desc=Убить крипера пилой
+achievement.killDragonMiningLaser=Like A Boss
+achievement.killDragonMiningLaser.desc=Убить дракона шахтерским лазером
+achievement.mineOre=Добытчик новых руд
+achievement.mineOre.desc=Добудьте медь, олово и уран
+achievement.starveWithQHelmet=Смертельная забывчивость
+achievement.starveWithQHelmet.desc=Умрите от голода или утоните з квантовым шлемом.
+achievement.teleportFarAway=Далеко-далеко
+achievement.teleportFarAway.desc=Телепортируйтесь на расстояние не менее 1 километра.
+achievement.terraformEndCultivation=Край как рай
+achievement.terraformEndCultivation.desc=Терраформируйте Край, чтобы он стал похож на обычный мир.
+achievement.buildPESU=Ты сошел з ума
+achievement.buildPESU.desc=Создать ПЭСУ
+
+//steam Achievements
+achievement.luckyBastard=Удачливый ублюдок
+achievement.luckyBastard.desc=Выбить джекпот з коробки з утильсырьем
+achievement.Sinner=Грешник
+achievement.Sinner.desc=Свехнуться на уране
+achievement.scaffolded=Иронический небоскреб
+achievement.scaffolded.desc=Не лестница в небо
+achievement.killWitherWithNuke=Доказательство дурака
+achievement.killWitherWithNuke.desc=Радиация супер-эфективна против нежети
+achievement.cropBeginner=Первый урожай
+achievement.cropBeginner.desc=Начало работы з посевами
+achievement.cropChallenger=Уроженец
+achievement.cropChallenger.desc=Получить хороший урожай
+achievement.cropExpert=Эксперт по растениеводству
+achievement.cropExpert.desc=Получить звание эксперта по растениеводству
+achievement.cropGrandMaster=Великий мастер урожая
+achievement.cropGrandMaster.desc=Станьте Грандмастером по растениеводству
+achievement.cropBlank=Чистый урожай
+achievement.cropBlank.desc=Станьте "Чистым" в растениеводстве
+
+//Percent Achievements
+achievement.bitClean=Зеленый старт
+achievement.bitClean.desc=Очистите мир от грязной энергии
+achievement.goGreen=Зеленее чем трава
+achievement.goGreen.desc=Использовать в основном производители чистой энергии
+achievement.goCoal=Слабая горелка
+achievement.goCoal.desc=Сделайте больше грязных чем чистых производителей энергии
+achievement.factoryGiant=Мировая топка
+achievement.factoryGiant.desc=используйте в основном загрязняющие производители энергии
+
+//stats
+stat.itemEnergyUsed.name=Используемая энергия предметом
+stat.itemSmelted.name=Плавленные предметы
+stat.itemAutoSmelted.name=Предметы автоплавки
+stat.itemMacerated.name=Передробленные предметы
+stat.itemAutoMacerated.name=Авто-передробленные предметы
+stat.itemExtracted.name=Извлеченные предметы
+stat.itemAutoExtracted.name=Авто-извлеченные предметы
+stat.itemCompressed.name=Сжатые предметы
+stat.itemAutoCompressed.name=Авто-сжатые предметы
+stat.itemRecycled.name=Переработанные ресурсы
+stat.itemAutoRecycled.name=Авто-переработанные ресурсы
+stat.uuMatterProduced.name=Произведенная материя
+stat.jetpacktimeflown.name=Время полета на реактивном ранце
+stat.rocketModesUsed.name=Режим ракеты реактивного ранца запущен!
+stat.beersBrewed.name=Пивоваренье
+stat.lightDrunk.name=Получить легкое опьянение
+stat.medDrunk.name=Получить обычное опьянение
+stat.badDrunk.name=Получить сильное опьянение
+stat.deadlyDrunk.name=Получить действительно сильное опьянение
+stat.foodcanEaten.name=Канистры для еды
+stat.nuclearJetpacksExploded.name=Ядерные реактивные ранцы взрываются
+stat.nuclearReactorsExploded.name=Взорванные ядерные реакторы
+stat.steamReactorsExploded.name=Увидеть как взрываеться паровой рэактар
+stat.nukesIgnited.name=Запуск ядерного взрыва
+stat.texturesStolen.name=Текстуры скопированы
+stat.luckyPerson.name=Стать счастливым з помощью коробок з утильсырьем
+stat.sinns.name=Грехи совершены
+stat.cleanEnergy.name=Пошла чистая энергия
+stat.dirtyEnergy.name=Пошла грязная энергия
+stat.playersDisliked.name=Другие люди не доверяют
+stat.teaLover.name=Выпить чай
+stat.coffeeLover.name=Выпить кофе
+stat.machineLoser.name=Потерянные механизмы
+stat.machineSaver.name=Механизмы спасены
+stat.cropBreeder.name=Выростить урожай
+stat.cableShockDamage.name=Пострадать от удара током
