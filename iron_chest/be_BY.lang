@@ -1,0 +1,177 @@
+################
+#    Chests    #
+################
+
+tile.ironchest.chest.iron.name=Жалезны куфар
+tile.ironchest.chest.gold.name=Залаты куфар
+tile.ironchest.chest.diamond.name=Дыямэнтавы куфар
+tile.ironchest.chest.copper.name=Медны куфар
+tile.ironchest.chest.silver.name=Срэбны куфар
+tile.ironchest.chest.crystal.name=Крыштальны куфар
+tile.ironchest.chest.obsidian.name=Абсідыянавы куфар
+tile.ironchest.chest.dirtchest9000.name=БрудКуф 9000!
+
+item.ironchest.chest.iron_gold.name=Жалезны куфар да залатога (паляпшэньне)
+item.ironchest.chest.gold_diamond.name=Залаты куфар да дыяментавага (паляпшэньне)
+item.ironchest.chest.copper_silver.name=Медны куфар да срэбнага (паляпшэньне)
+item.ironchest.chest.silver_gold.name=Срэбны куфар да залатога (паляпшэньне)
+item.ironchest.chest.copper_iron.name=Медны куфар да жалезнага (паляпшэньне)
+item.ironchest.chest.diamond_crystal.name=Дыямэнтавы куфар да крыштальнага (паляпшэньне)
+item.ironchest.chest.wood_iron.name=Драўляны куфар да жалезнага (паляпшэньне)
+item.ironchest.chest.wood_copper.name=Драўляны куфар да меднага (паляпшэньне)
+item.ironchest.chest.diamond_obsidian.name=Дыямэнтавы куфар да абсідыянавага (паляпшэньне)
+
+book.ironchest.dirtchest9000.title=How to use your DirtChest 9000!
+book.ironchest.dirtchest9000.page1="Welcome to your new DirtChest 9000! We hope you will enjoy many happy years of storing your stack of dirt in our storage utility."
+book.ironchest.dirtchest9000.page2="Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!"
+book.ironchest.dirtchest9000.page3="We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated."
+book.ironchest.dirtchest9000.page4="Warranty: This product has no warranty of any kind. Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all."
+book.ironchest.dirtchest9000.page5="DirtChest 9000 is kind to the environment. Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava. We would be very sad."
+
+#######################
+#    Shulker Boxes    #
+#######################
+
+tile.ironchest.shulker_box.iron.white.name=Жалезны (белы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.orange.name=Жалезны (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.magenta.name=Жалезны (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.iron.light_blue.name=Жалезны (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.iron.yellow.name=Жалезны (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.iron.lime.name=Жалезны (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.pink.name=Жалезны (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.gray.name=Жалезны (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.iron.silver.name=Жалезны (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.iron.cyan.name=Жалезны (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.purple.name=Жалезны (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.blue.name=Жалезны (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.iron.brown.name=Жалезны (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.iron.green.name=Жалезны (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.iron.red.name=Жалезны (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.iron.black.name=Жалезны (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.gold.white.name=Залаты (белы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.orange.name=Залаты (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.magenta.name=Залаты (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.gold.light_blue.name=Залаты (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.gold.yellow.name=Залаты (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.gold.lime.name=Залаты (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.pink.name=Залаты (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.gray.name=Залаты (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.gold.silver.name=Залаты (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.gold.cyan.name=Залаты (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.purple.name=Залаты (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.blue.name=Залаты (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.gold.brown.name=Залаты (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.gold.green.name=Залаты (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.gold.red.name=Залаты (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.gold.black.name=Залаты (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.diamond.white.name=Дыямэнтавы (белы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.orange.name=Дыямэнтавы (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.magenta.name=Дыямэнтавы (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.light_blue.name=Дыямэнтавы (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.yellow.name=Дыямэнтавы (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.lime.name=Дыямэнтавы (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.pink.name=Дыямэнтавы (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.gray.name=Дыямэнтавы (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.silver.name=Дыямэнтавы (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.cyan.name=Дыямэнтавы (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.purple.name=Дыямэнтавы (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.blue.name=Дыямэнтавы (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.brown.name=Дыямэнтавы (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.green.name=Дыямэнтавы (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.red.name=Дыямэнтавы (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.diamond.black.name=Дыямэнтавы (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.copper.white.name=Медны (белы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.orange.name=Медны (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.magenta.name=Медны (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.copper.light_blue.name=Медны (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.copper.yellow.name=Медны (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.copper.lime.name=Медны (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.pink.name=Медны (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.gray.name=Медны (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.copper.silver.name=Медны (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.copper.cyan.name=Медны (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.purple.name=Медны (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.blue.name=Медны (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.copper.brown.name=Медны (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.copper.green.name=Медны (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.copper.red.name=Медны (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.copper.black.name=Медны (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.silver.white.name=Срэбны (белы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.orange.name=Срэбны (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.magenta.name=Срэбны (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.silver.light_blue.name=Срэбны (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.silver.yellow.name=Срэбны (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.silver.lime.name=Срэбны (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.pink.name=Срэбны (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.gray.name=Срэбны (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.silver.silver.name=Срэбны (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.silver.cyan.name=Срэбны (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.purple.name=Срэбны (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.blue.name=Срэбны (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.silver.brown.name=Срэбны (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.silver.green.name=Срэбны (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.silver.red.name=Срэбны (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.silver.black.name=Срэбны (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.crystal.white.name=Крыштальны (белы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.orange.name=Крыштальны (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.magenta.name=Крыштальны (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.light_blue.name=Крыштальны (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.yellow.name=Крыштальны (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.lime.name=Крыштальны (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.pink.name=Крыштальны (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.gray.name=Крыштальны (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.silver.name=Крыштальны (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.cyan.name=Крыштальны (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.purple.name=Крыштальны (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.blue.name=Крыштальны (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.brown.name=Крыштальны (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.green.name=Крыштальны (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.red.name=Крыштальны (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.crystal.black.name=Крыштальны (чорны) кораб Шалкеру
+
+tile.ironchest.shulker_box.obsidian.white.name=Абсідыянавы (белы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.orange.name=Абсідыянавы (аранжавы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.magenta.name=Абсідыянавы (маджента) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.light_blue.name=Абсідыянавы (блакітны) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.yellow.name=Абсідыянавы (жоўты) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.lime.name=Абсідыянавы (лаймавы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.pink.name=Абсідыянавы (ружовы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.gray.name=Абсідыянавы (шэры) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.silver.name=Абсідыянавы (сьветлашэры) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.cyan.name=Абсідыянавы (цыянавы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.purple.name=Абсідыянавы (фіялетавы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.blue.name=Абсідыянавы (сіні) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.brown.name=Абсідыянавы (карычневы) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.green.name=Абсідыянавы (зялёны) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.red.name=Абсідыянавы (чырвоны) кораб Шалкеру
+tile.ironchest.shulker_box.obsidian.black.name=Абсідыянавы (чорны) кораб Шалкеру
+
+item.ironchest.shulker_box.iron_gold.name=Жалезны кораб Шалкеру да залатога (паляпшэньне)
+item.ironchest.shulker_box.iron_gold.tooltip=Выкарыстоўваецца да паляпшэньня жалезнага корабу Шалкеру да залатога\nКолер застанецца тым жа.
+item.ironchest.shulker_box.gold_diamond.name=Залаты кораб Шалкеру да дыямэнтавага (паляпшэньне)
+item.ironchest.shulker_box.gold_diamond.tooltip=Выкарыстоўваецца да паляпшэньня залатога корабу Шалкеру да дыяментавага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.copper_silver.name=Медны кораб Шалкеру да срэбнага (паляпшэньне)
+item.ironchest.shulker_box.copper_silver.tooltip=Выкарыстоўваецца да паляпшэньня меднага корабу Шалкеру да срэбнага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.silver_gold.name=Срэбны кораб Шалкеру да залатога (паляпшэньне)
+item.ironchest.shulker_box.silver_gold.tooltip=Выкарыстоўваецца да паляпшэньня срэбнага корабу Шалкеру да залатога\nКолер застанецца тым жа.
+item.ironchest.shulker_box.copper_iron.name=Медны кораб Шалкеру да жалезнага (паляпшэньне)
+item.ironchest.shulker_box.copper_iron.tooltip=Выкарыстоўваецца да паляпшэньня меднага корабу Шалкеру да жалезнага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.diamond_crystal.name=Дыямэнтавы кораб Шалкеру да крыштальнага (паляпшэньне)
+item.ironchest.shulker_box.diamond_crystal.tooltip=Выкарыстоўваецца да паляпшэньня дыямэнтавага корабу Шалкеру да крыштальнага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.vanilla_iron.name=Ванільны кораб Шалкеру да жалезнага (паляпшэньне)
+item.ironchest.shulker_box.vanilla_iron.tooltip=Выкарыстоўваецца да паляпшэньня ванільнага корабу Шалкеру да жалезнага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.vanilla_copper.name=Ванільны кораб Шалкеру да меднага (паляпшэньне)
+item.ironchest.shulker_box.vanilla_copper.tooltip=Выкарыстоўваецца да паляпшэньня меднага корабу Шалкеру да меднага\nКолер застанецца тым жа.
+item.ironchest.shulker_box.diamond_obsidian.name=Дыямэнтавы кораб Шалкеру да абсідыянавага (паляпшэньне)
+item.ironchest.shulker_box.diamond_obsidian.tooltip=Выкарыстоўваецца да паляпшэньня дыяментавага корабу Шалкеру да абсідыянавага\nКолер застанецца тым жа.
+
+##############
+#    GUIs    #
+##############
+
+itemGroup.ironchest=Жалезныя куфры
